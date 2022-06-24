@@ -1,0 +1,97 @@
+div {
+  height: 30px;
+  position: relative;
+}
+
+#yt {
+  width: 50px;
+  cursor: pointer;
+  margin-left: 30px;
+}
+
+#yta {
+  text-decoration: none;
+  color: var(--secondary-color);
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 6%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.sc_title {
+  color: var(--secondary-color);
+  text-align: center;
+  text-decoration: underline;
+  font-size: 50px;
+}
+
+#dc {
+  width: 50px;
+  cursor: pointer;
+  margin-left: 30px;
+}
+
+#dca {
+  text-decoration: none;
+  color: var(--secondary-color);
+  margin: 0;
+  position: absolute;
+  top: 65%;
+  left: 6.5%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+#gh {
+  width: 50px;
+  cursor: pointer;
+  margin-left: 30px;
+}
+
+#gha {
+  text-decoration: none;
+  color: var(--secondary-color);
+  margin: 0;
+  position: absolute;
+  top: 85%;
+  left: 6.5%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+#rd {
+  width: 50px;
+  cursor: pointer;
+  margin-left: 30px;
+  margin-top: 5px;
+}
+
+#rda {
+  text-decoration: none;
+  color: var(--secondary-color);
+  margin: 0;
+  position: absolute;
+  top: 95%;
+  left: 6.5%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+#tw {
+  width: 50px;
+  cursor: pointer;
+  margin-left: 30px;
+}
+
+#twa {
+  text-decoration: none;
+  color: var(--secondary-color);
+  margin: 0;
+  position: absolute;
+  top: 78%;
+  left: 6.5%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}

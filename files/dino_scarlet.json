@@ -1,0 +1,24 @@
+{
+	"META": {
+		"repoName": "Diino's Repo",
+		"repoIcon": "https://cdn.discordapp.com/attachments/865143737596641292/989093667253923890/billcipher.png?size=4096"
+	},
+	"Hacked Games": [{
+		"name":"Sniper 3D Hack",
+		"down": "https://github.com/ItsDiino/itsdiino.github.io/releases/download/0.0.1/com.fungames.sniper3d-3.45.2-Decrypted.ipa",
+		"version":"1.0.0",
+		"appstore": "com.fungames.sniper3d",
+		"bundleID": "com.fungames.sniper3d",
+		"category": "Hacked Games",
+		"debs": [
+			"https://github.com/ItsDiino/itsdiino.github.io/releases/download/0.0.1/com.gamegod.igg_0.2.6_iphoneos-arm.deb"
+		]
+	}, 	{
+		"name":"Minecraft Earth",
+		"down": "https://github.com/ItsDiino/itsdiino.github.io/releases/download/0.0.1/Minecraft.Earth.0.33.0.ipa",
+		"version":"0.33.0",
+		"appstore": "com.mojang.earth",
+		"bundleID": "com.mojang.earth",
+		"category": "Hacked Games"
+	}],
+}

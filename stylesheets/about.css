@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+
+.about_title {
+  font-size: 50px;
+  text-decoration: underline;
+}
+
+.about {
+  margin-top: 50px;
+  font: Arial, sans-serif;
+}
+
+.reason {
+  font: Arial, sans-serif; 
+  text-decoration: underline;
+  color: #4f4f4f;
+}

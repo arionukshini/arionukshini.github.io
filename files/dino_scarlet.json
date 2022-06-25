@@ -9,8 +9,8 @@
 		"down": "https://github.com/ItsDiino/itsdiino.github.io/raw/main/files/ipas/ESign_4.5.1_iPhone%20Distribution_%20Shandong%20Runda%20Information%20Technology%20CoLtd.ipa",
 		"category": "Tweaked Apps",
 		"description": "Best app to sign apps and inject tweaks!",
-		"bundleID": "com.esign.app"
-		"appstore": "com.esign.app"
+		"bundleID": "com.esign.app",
+		"appstore": "com.esign.app",
 		"contact": {
 			"web": "https://esign.yyyue.xyz/"
 		}
@@ -28,7 +28,7 @@
 	}, 	{
 		"name":"Blob Hero Hack",
 		"down": "https://download1506.mediafire.com/lv3cp4vlhm4g/ghwcyb7rmwtohq4/com.quok.blobHero-0.6.9-Decrypted.ipa",
-		"version":"1.0.0",
+		"version":"0.6.9",
 		"appstore": "com.quok.blobHero",
 		"bundleID": "com.quok.blobHero",
 		"category": "Hacked Games",

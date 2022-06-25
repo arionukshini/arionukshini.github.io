@@ -1,0 +1,13 @@
+{
+    "info": {
+        "name": "Theme",
+        "maintainer": "Diino"
+    },
+    "themes": [
+        {
+            "name": "Test",
+            "author": "idk",
+            "url": "http://example.com/themes/theme_name.zip"
+        }
+    ]
+}

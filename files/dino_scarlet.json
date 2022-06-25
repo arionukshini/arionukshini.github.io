@@ -3,19 +3,41 @@
 		"repoName": "Diino's Repo",
 		"repoIcon": "https://cdn.discordapp.com/attachments/865143737596641292/989093667253923890/billcipher.png?size=4096"
 	},
+	"Tweaked": [{
+		"name": "E-Sign",
+		"version": "4.5.1",
+		"down": "https://github.com/ItsDiino/itsdiino.github.io/raw/main/files/ipas/ESign_4.5.1_iPhone%20Distribution_%20Shandong%20Runda%20Information%20Technology%20CoLtd.ipa",
+		"category": "Tweaked Apps",
+		"description": "Best app to sign apps and inject tweaks!",
+		"bundleID": "com.esign.app"
+		"appstore": "com.esign.app"
+		"contact": {
+			"web": "https://esign.yyyue.xyz/"
+		}
+	}],
 	"Hacked Games": [{
 		"name":"Sniper 3D Hack",
-		"down": "https://github.com/ItsDiino/itsdiino.github.io/releases/download/0.0.1/com.fungames.sniper3d-3.45.2-Decrypted.ipa",
+		"down": "https://download1529.mediafire.com/q96ej2gsv78g/7dds8rw93oypibg/com.fungames.sniper3d-3.45.2-Decrypted.ipa",
 		"version":"1.0.0",
 		"appstore": "com.fungames.sniper3d",
 		"bundleID": "com.fungames.sniper3d",
 		"category": "Hacked Games",
 		"debs": [
-			"https://github.com/ItsDiino/itsdiino.github.io/releases/download/0.0.1/com.gamegod.igg_0.2.6_iphoneos-arm.deb"
+			"https://github.com/ItsDiino/itsdiino.github.io/raw/main/files/tweaks/com.gamegod.igg_0.2.6_iphoneos-arm.deb"
 		]
 	}, 	{
+		"name":"Blob Hero Hack",
+		"down": "https://download1506.mediafire.com/lv3cp4vlhm4g/ghwcyb7rmwtohq4/com.quok.blobHero-0.6.9-Decrypted.ipa",
+		"version":"1.0.0",
+		"appstore": "com.quok.blobHero",
+		"bundleID": "com.quok.blobHero",
+		"category": "Hacked Games",
+		"debs": [
+			"https://github.com/ItsDiino/itsdiino.github.io/raw/main/files/tweaks/com.gamegod.igg_0.2.6_iphoneos-arm.deb"
+		]
+	},	{
 		"name":"Minecraft Earth",
-		"down": "https://github.com/ItsDiino/itsdiino.github.io/releases/download/0.0.1/Minecraft.Earth.0.33.0.ipa",
+		"down": "https://archive.org/download/minecraft-iOS/Minecraft%20Earth%20-%20iOS/Minecraft%20Earth%200.33.0.ipa",
 		"version":"0.33.0",
 		"appstore": "com.mojang.earth",
 		"bundleID": "com.mojang.earth",

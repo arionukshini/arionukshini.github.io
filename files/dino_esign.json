@@ -4,7 +4,25 @@
       "beta": false,
       "bundleIdentifier": "com.mojang.minecraftpe",
       "developerName": "Mojang",
-      "downloadURL": "https://d36.dwnserver.com/download/f47ae5ef-2250-4de8-8bca-1bc564b80827/Minecraft-v1-17-11.ipa/",
+      "downloadURL": "https://download1528.mediafire.com/ia3a8345cvhg/tfsr50z89d375yr/com.mojang.minecraftpe-1.19.2-user-hidden-icpda.ipa",
+      "iconURL": "https://pdacdn.com/app/59522b5d33742/minecraft.png",
+      "localizedDescription": "",
+      "name": "Minecraft",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 30000000,
+      "subtitle": "Latest version of Minecraft",
+      "tintColor": "018084",
+      "version": "1.19.2",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "Mojang",
+      "downloadURL": "https://download2272.mediafire.com/wpo05lkoblvg/xgvtv4ic5nd0nzf/Minecraft-v1-17-11.ipa",
       "iconURL": "https://pdacdn.com/app/59522b5d33742/minecraft.png",
       "localizedDescription": "",
       "name": "Minecraft 1.17.11",

@@ -38,64 +38,6 @@
     },
     {
       "beta": false,
-      "bundleIdentifier": "com.sega.kartios",
-      "developerName": "SEGA",
-      "downloadURL": "https://qdhw9.leaderhero.com/repoe/20210604/SonicRacing_v1.3.1_os13.5__210604165104_pandahelp.vip.ipa",
-      "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/1f/22/59/1f22593b-7db7-115f-b80c-46a133920487/source/100x100bb.jpg",
-      "localizedDescription": "",
-      "name": "Sonic Racing",
-      "screenshotURLs": [
-        ""
-      ],
-      "size": 2184796,
-      "subtitle": "RACE",
-      "tintColor": "018084",
-      "version": "1.3.1",
-      "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": ""
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.marmalade.battleship",
-      "developerName": "Hasbro",
-      "downloadURL": "https://qdhw9.leaderhero.com/repoe/20210109/BATTLESHIP_v0.2.1_os10.0__210109014407_pandahelp.vip.ipa",
-      "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/8f/5e/89/8f5e895c-16e9-aa7b-a88d-f1796fd8924e/source/100x100bb.jpg",
-      "localizedDescription": "",
-      "name": "BattleShip",
-      "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
-        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
-        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
-      ],
-      "size": 2184796,
-      "subtitle": "Hasbro's BATTLESHIP",
-      "tintColor": "018084",
-      "version": "0.2.1",
-      "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": ""
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.turner.stevenrpg",
-      "developerName": "Cartoon Network",
-      "downloadURL": "https://qdhw9.leaderhero.com/repoe/20210110/AttackLight_v1.1.2_os7.0__210110025447_pandahelp.vip.ipa",
-      "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple69/v4/20/8b/0d/208b0de5-77a7-bac0-e0c5-64c73b870ef9/source/175x175bb.jpg",
-      "localizedDescription": "",
-      "name": "Attack the Light",
-      "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
-        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
-        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
-      ],
-      "size": 2184796,
-      "subtitle": "Attack the Light - Steven Universe Light RPG",
-      "tintColor": "018084",
-      "version": "1.1.2",
-      "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": ""
-    },
-    {
-      "beta": false,
       "bundleIdentifier": "com.savetheworld.game",
       "developerName": "Panda Helper",
       "downloadURL": "https://qdhw9.leaderhero.com/repof/20220620/MyUniverse_v1.20.2_os11.0__220620180203_pandahelp.vip.ipa",

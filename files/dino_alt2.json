@@ -3,167 +3,402 @@
   "identifier": "com.diino.apps",
   "sourceURL": "https://raw.githubusercontent.com/ItsDiino/itsdiino.github.io/main/files/dino_alt2.json",
   "apps": [
+  {
     {
-      "name": "AltStore",
-      "bundleIdentifier": "com.rileytestut.AltStore",
-      "developerName": "Riley Testut",
-      "version": "1.5",
-      "versionDate": "2022-05-06T08:00:00-07:00",
-      "versionDescription": "TRUSTED SOURCES\n• Download and update certain third party apps entirely through AltStore\n• Add Trusted Sources directly from the new Sources page\n• Trusted Sources are sources we’ve explicitly approved that meet our safety standards\n• You can still sideload any .ipa you want via the \"+\" button in My Apps \n• Support for adding any source by URL will be coming later\n\nALTJIT\n• Allows sideloaded apps to use Just-in-Time (JIT) compilation\n• Long-press an app in My Apps, then choose “Enable JIT”\n• JIT will remain enabled until the app is quit\n• Requires iOS 14 or later\n• Requires AltServer 1.5 or later\n\nIMPROVED\n• Adds Shane to credits and Patreon screen\n• Loads “Friend Tier” Patrons much faster on Patreon screen\n\nFIXED\n• Fixed a potential crash when sideloading certain apps\n• Fixed some apps having access to AltStore’s app group after being (de-)activated\n• Fixed Core Data error when not connected to internet",
-      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_5.ipa",
-      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis version of AltStore allows you to install Delta, an all-in-one emulator for iOS, as well as sideload other .ipa files from the Files app.",
-      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
-      "tintColor": "018084",
-      "size": 5459395,
+      "beta": false,
+      "bundleIdentifier": "com.robotgentleman.game60seconds",
+      "developerName": "Robot Gentelman",
+      "downloadURL": "http://down111.dailyuploads.net:182/d/yicoaxexoghlriinlfbomgitah56sd6wtxa7ni3cardt4t2j32faar4j/game60seconds_1.27.9_telefonbuchios13ok1116.ipa",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/09/ed/de/09edde83-d532-c705-5063-a6396e53b41c/source/512x512bb.jpg",
+      "localizedDescription": "60 Seconds! is a dark comedy atomic adventure of scavenge and survival. Collect supplies and rescue your family before the nuke hits. Stay alive in your fallout shelter. Make difficult decisions, ration food and hunt mutant cockroaches. And maybe survive. Or not.",
+      "name": "60 Seconds!",
       "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
-        "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
-        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+        ""
       ],
-      "permissions": [
-        {
-          "type": "background-fetch",
-          "usageDescription": "AltStore periodically refreshes apps in the background to prevent them from expiring."
-        },
-        {
-          "type": "background-audio",
-          "usageDescription": "Allows AltStore to run longer than 30 seconds when refreshing apps in background."
-        }
-      ]
+      "size": 322184796,
+      "subtitle": "Atomic Adventure",
+      "tintColor": "018084",
+      "version": "1.27.9",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
     },
     {
-      "name": "AltStore",
-      "bundleIdentifier": "com.rileytestut.AltStore.Beta",
-      "developerName": "Riley Testut",
-      "subtitle": "An alternative App Store for iOS.",
-      "version": "1.5.1b",
-      "versionDate": "2022-05-27T12:00:00-07:00",
-      "versionDescription": "This beta fixes the following issues:\n\n• Using Apple IDs that contain capital letters\n• Using Apple IDs with 2FA enabled without any trusted devices\n• Repeatedly asking some users to sign in every refresh\n• \"Incorrect Apple ID or password\" error after changing Apple ID email address\n• “Application is missing application-identifier” error when sideloading or (de-)activating certain apps",
-      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_5_1_b.ipa",
-      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis beta release of AltStore adds support for 3rd party sources, allowing you to download apps from other developers directly through AltStore.",
-      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
-      "tintColor": "018084",
-      "size": 5464776,
-      "beta": true,
+      "beta": false,
+      "bundleIdentifier": "com.robotgentleman.game60secondsreatomized",
+      "developerName": "Robot Gentelman",
+      "downloadURL": "http://down100.dailyuploads.net:182/d/ymcnyg53oghlriindzakqdshisui3vk4fv23ljefrzfm73cdkavfaoiw/60%20Seconds%20Reatomized%20(v1.2.2%20v1%20unk%20FW%2064bit%20os110%20ok14)-user_hidden.bfi.ipa",
+      "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/52/01/2c/52012ccc-4b08-0f95-3703-22721bef8765/source/512x512bb.jpg",
+      "localizedDescription": "Dolores, Ted, Mary Jane and Timmy return to face the nuclear apocalypse in this new, remastered edition of the classic atomic adventure - 60 Seconds! Reatomized, featuring high resolution art support, refreshed 2D graphics and hand-drawn 3D textures, new interactive menu, improved UI system, a technical refresh, and of course... new content!",
+      "name": "60 Seconds! Reatomized",
       "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
-        "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
-        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+        ""
       ],
-      "permissions": [
-        {
-          "type": "background-fetch",
-          "usageDescription": "AltStore periodically refreshes apps in the background to prevent them from expiring."
-        },
-        {
-          "type": "background-audio",
-          "usageDescription": "Allows AltStore to run longer than 30 seconds when refreshing apps in background."
-        }
-      ]
+      "size": 222184796,
+      "subtitle": "Reatomized!",
+      "tintColor": "018084",
+      "version": "1.2.2",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
     },
     {
-      "name": "Delta",
-      "bundleIdentifier": "com.rileytestut.Delta",
-      "developerName": "Riley Testut",
-      "subtitle": "Classic games in your pocket.",
+      "beta": false,
+      "bundleIdentifier": "com.robotgentleman.game60parsecs",
+      "developerName": "Robot Gentelman",
+      "downloadURL": "http://down100.dailyuploads.net:182/d/ymccgrv5oghlriinprakeciwaqqursmhy5manm5updmhg7fbvt626lhu/60Parsecs_1.1.4_Telefonbuch%20.ipa",
+      "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/6f/4d/f1/6f4df14e-8ad5-9a1e-dc11-f6f4f2e73a80/source/512x512bb.jpg",
+      "localizedDescription": "Atomic Space Age was a blast! Until it became the Post-Apocalyptic Space Age.\n\nYour space station is about to explode and you only have 60 seconds before things get messy. What (or who) will you grab before you make a mad dash for the emergency shuttle and begin your journey into THE GREAT UNKNOWN?\n\nThis is 60 Parsecs!, a dark comedy sci-fi adventure set in the Atomic Space Age - complete with all the Cold War paranoia, chrome-plated wall accents and cockroaches with space helmets.",
+      "name": "60 Parsecs!",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 662184796,
+      "subtitle": "60 Parsecs!",
+      "tintColor": "018084",
+      "version": "1.1.4",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.AbyteEntertainmentLtd.DealersLife2",
+      "developerName": "Abyte Entertainment",
+      "downloadURL": "http://down100.dailyuploads.net:182/d/ymccnw2hoghlriin2zalaaqbbvodt4lpnfyqjoc3ydgqxxm3auhdz3mc/DealersLife2_1.006_Zachary@Cracks(13&up14.8ok).ipa",
+      "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/d3/3e/3f/d33e3f84-7360-0609-7279-e56f76ca7f1f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "localizedDescription": "Have you ever thought about building up your own empire, without the risk of ending up sleeping under a bridge? Become the owner of a pawn shop and haggle like your life depends on it!\n\nStart small, grow big!\nBegin your journey in a rundown shack and build up your business day by day by negotiating with customers, hiring employees and partaking in auctions.\nBut be careful! Scammers will try to take advantage of you with fake items and if someone ever wants to sell you a questionable “insurance” better choose your next words wisely...\nEach customer behaves differently during negotiations according to their unique psychological traits. It’s up to you to understand who you have in front of you, how to treat them and how to seal the deal!\nUse all your negotiation, psychology and management skills to create your pawn empire!",
+      "name": "Dealer's Life 2",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 1200000,
+      "subtitle": "Dealer's Life 2 By Abyte Entertainment Ltd v1.006_I19",
+      "tintColor": "018084",
+      "version": "1.006",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.sega.kartios",
+      "developerName": "SEGA",
+      "downloadURL": "http://down111.dailyuploads.net:182/d/yicpde5xoghlriinqvb6icyzcdjodbgy7pydmuwet4njb7n52h3gs5ou/Sonic%20Racing%20(v2.0.0%20v1221259030%20unk%2064bit%20os135%20ok14)-user_hidden.bfi.ipa",
+      "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/1f/22/59/1f22593b-7db7-115f-b80c-46a133920487/source/100x100bb.jpg",
+      "localizedDescription": "The world''''s fastest hedgehog is back in SONIC RACING! Take control of one of 15 playable characters from the Sonic universe and compete in the ultimate multiplayer racing experience. COLLECT power-ups, SET traps and ATTACK competitors all while driving at high speed. Ready, Set, RACE!\nDECIDE HOW YOU WANT TO PLAY! Enjoy single-player mode, play with your friends or go big and play with people around the world in multiplayer mode.\nCREATE YOUR TEAM! Each character has its own unique advantages and brings a special Team Ability into the mix.\nNUMEROUS TRACKS TO RACE! 15 tracks in total, each split across 5 zones.\nWISPS ARE BACK! 15 spectacular creatures to help overcome rival teams and get ahead. They are always ready to offer help whenever needed.\nKEEP RACING! Get more rewards the more you race. Complete challenges and earn even more prizes.\nThe ultimate speed experience is waiting for you! Ready, Set, RACE!",
+      "name": "Sonic Racing",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 102184796,
+      "subtitle": "Racing Game with Sonic",
+      "tintColor": "018084",
       "version": "1.3.1",
-      "versionDate": "2021-12-02T13:30:00-08:00",
-      "versionDescription": "• Fixes game artwork not loading\n• Fixes using deprecated DeSmuME core over melonDS core for some users",
-      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/delta/1_3_1.ipa",
-      "localizedDescription": "Delta is an all-in-one emulator for iOS. Delta builds upon the strengths of its predecessor, GBA4iOS, while expanding to include support for more game systems such as NES, SNES, and N64.\n\nFEATURES\n\nSupported Game Systems\n• Nintendo Entertainment System\n• Super Nintendo Entertainment System\n• Nintendo 64\n• Game Boy (Color)\n• Game Boy Advance\n• Nintendo DS\n• And plenty more to come!\n\nController Support\n• Supports PS4, PS5, Xbox One S, Xbox Series X, and MFi game controllers.\n• Supports bluetooth (and wired) keyboards, as well as the Apple Smart Keyboard.\n• Completely customize button mappings on a per-system, per-controller basis.\n• Map buttons to special “Quick Save”, “Quick Load,” and “Fast Forward” actions.\n\nSave States\n• Save and load save states for any game from the pause menu.\n• Lock save states to prevent them from being accidentally overwritten.\n• Automatically makes backup save states to ensure you never lose your progress.\n• Support for “Quick Saves,” save states that can be quickly saved/loaded with a single button press (requires external controller).\n\nCheats\n• Supports various types of cheat codes for each supported system:\n• NES: Game Genie\n• SNES: Game Genie, Pro Action Replay\n• N64: GameShark\n• GBC: Game Genie, GameShark\n• GBA: Action Replay, Code Breaker, GameShark\n• DS: Action Replay\n\nDelta Sync\n• Sync your games, game saves, save states, cheats, controller skins, and controller mappings between devices.\n• View version histories of everything you sync and optionally restore them to earlier versions.\n• Supports both Google Drive and Dropbox.\n\nCustom Controller Skins\n• Beautiful built-in controller skins for all systems.\n• Import controller skins made by others, or even make your own to share with the world!\n\nHold Button\n• Choose buttons for Delta to hold down on your behalf, freeing up your thumbs to press other buttons instead.\n• Perfect for games that typically require one button be held down constantly (ex: run button in Mario games, or the A button in Mario Kart).\n\nFast Forward\n• Speed through slower parts of games by running the game much faster than normal.\n• Easily enable or disable from the pause menu, or optionally with a mapped button on an external controller.\n\n3D/Haptic Touch\n• Use 3D or Haptic Touch to “peek” at games, save states, and cheat codes.\n• App icon shortcuts allow quick access to your most recently played games, or optionally customize the shortcuts to always include certain games.\n\nGame Artwork\n• Automatically displays appropriate box art for imported games.\n• Change a game’s artwork to anything you want, or select from the built-in game artwork database.\n\nMisc.\n• Gyroscope support (WarioWare: Twisted! only)\n• Microphone support (DS only)\n• Support for delta:// URL scheme to jump directly into a specific game.\n\n**Delta and AltStore LLC are in no way affiliated with Nintendo. The name \"Nintendo\" and all associated game console names are registered trademarks of Nintendo Co., Ltd.**",
-      "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
-      "tintColor": "8A28F7",
-      "size": 19739373,
-      "permissions": [
-        {
-          "type": "photos",
-          "usageDescription": "Allows Delta to use images from your Photo Library as game artwork."
-        }
-      ],
-      "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/65600448-f7d9be00-df54-11e9-9e3e-d4c31296da94.PNG",
-        "https://user-images.githubusercontent.com/705880/65813009-f2ae8600-e183-11e9-9eb7-704effc11173.png",
-        "https://user-images.githubusercontent.com/705880/65601117-58b5c600-df56-11e9-9c19-9a5ba5da54cf.PNG",
-        "https://user-images.githubusercontent.com/705880/65601125-5b182000-df56-11e9-9e7e-261480e893c0.PNG"
-      ]
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
     },
     {
-      "name": "Delta",
-      "bundleIdentifier": "com.rileytestut.Delta.Beta",
-      "developerName": "Riley Testut",
-      "subtitle": "Classic games in your pocket.",
-      "version": "1.4b1",
-      "versionDate": "2022-06-02T09:00:00-07:00",
-      "versionDescription": "NEW\n• iPad-optimized UI\n• Redesigned iPad controller skins for NES, SNES, and DS games\n• Temporary iPad controller skins for GBC, GBA, Genesis, and N64 games\n\nIMPROVED\n• Modern menu UI when importing games\n• Updated \"Copy Deep Link\" icon when sharing a game\n\nFIXED\n• Fixed keyboard support on iOS 15+\n• Fixed invisible \"Games\" navigation bar and toolbar on iOS 15+\n• Fixed error sharing games via certain share methods\n• Fixed exporting save files for games with names containing special characters\n• Fixed UI bug where previous game controller would remaining selected after switching\n• Fixed game controller input mapping UI on iPad\n• Fixed crash importing games on iPad\n• Fixed crash sharing games on iPad",
-      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/delta/1_4_b1.ipa",
-      "localizedDescription": "The next consoles for Delta are coming: this beta version of Delta brings support for playing Nintendo DS and Sega Genesis games!\n\nPlease report any issues you find to support@altstore.io. Thanks!",
-      "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
-      "tintColor": "8A28F7",
-      "size": 38346715,
-      "beta": true,
-      "permissions": [
-        {
-          "type": "photos",
-          "usageDescription": "Allows Delta to use images from your Photo Library as game artwork."
-        }
-      ],
+      "beta": false,
+      "bundleIdentifier": "com.telltale.story2",
+      "developerName": "Telltale",
+      "downloadURL": "https://qdhw9.leaderhero.com/repoe/20210111/MCSMS2_v1.6_os10.0__210111022747_pandahelp.vip.ipa",
+      "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/55/1f/35/551f357e-7ee7-b519-aa2f-83f635bf68df/source/512x512bb.jpg",
+      "localizedDescription": "A story mode for minecraft!\nThe second version!",
+      "name": "Minecraft: Story Mode 2",
       "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/65600448-f7d9be00-df54-11e9-9e3e-d4c31296da94.PNG",
-        "https://user-images.githubusercontent.com/705880/65601942-e5ad4f00-df57-11e9-9255-1463e0296e46.PNG",
-        "https://user-images.githubusercontent.com/705880/65813009-f2ae8600-e183-11e9-9eb7-704effc11173.png",
-        "https://user-images.githubusercontent.com/705880/65601117-58b5c600-df56-11e9-9c19-9a5ba5da54cf.PNG"
-      ]
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "Story Mode 2",
+      "tintColor": "018084",
+      "version": "1.6",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
     },
     {
-      "name": "Clip",
-      "bundleIdentifier": "com.rileytestut.Clip",
-      "subtitle": "Manage your clipboard history with ease.",
-      "developerName": "Riley Testut",
+      "beta": false,
+      "bundleIdentifier": "com.telltale.story",
+      "developerName": "Telltale Games",
+      "downloadURL": "https://qdhw9.leaderhero.com/repoe/20210111/Minecraft_v1.7_os7.1__210111031959_pandahelp.vip.ipa",
+      "iconURL": "https://img.captain-droid.com/wp-content/uploads/2016/12/minecraft100-icon.png",
+      "localizedDescription": "A Story Mode for Minecraft!",
+      "name": "Minecraft: Story Mode",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 60000000,
+      "subtitle": "Story Mode",
+      "tintColor": "018084",
+      "version": "1.7",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.flyingdevelopmentstudio.infiniteflight",
+      "developerName": "Infinite Flight",
+      "downloadURL": "http://down100.dailyuploads.net:182/d/ymcacrchoghlriinzvakgdceddr4kxlzhykvd27w4ffn5aaefju2c2u2/Infinite%20Flight_22.04.01_Zachary@Cracks(13&up14.8ok).ipa",
+      "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/9d/0c/88/9d0c8847-3210-ae5a-42cb-b1968c98f833/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Infinite Flight offers the most comprehensive flight simulation experience on mobile devices, whether you are a curious novice or a decorated pilot. Explore high definition scenery in regions from around the world with our diverse inventory of detailed aircraft, tailoring each flight by choosing your time of day, weather conditions, and aircraft weight configuration.",
+      "name": "Infinite Flight Simulator",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "Flight Sim",
+      "tintColor": "018084",
+      "version": "22.04.01",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "brownmonster.app.game.rushrally3",
+      "developerName": "Brownmonster Limited",
+      "downloadURL": "http://down100.dailyuploads.net:182/d/ymcdfrchoghlriin25alacyoanpbjkt4xtce2s3ovvjrm2272sk2dya2/Rush%20Rally%203_1.114_Zachary@Cracks(13&up14.8ok).ipa",
+      "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/10/43/cd/1043cddf-94b5-303b-077c-48ae80eba48f/AppIcon-1x_U007emarketing-0-9-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Rush Rally 3 is the most realistic rally simulation on your mobile.\n\nCONSOLE QUALITY RALLYING\n60fps racing at night or day in the rain or snow! Over 72 new and unique stages each with different surface types including snow, gravel, tarmac and dirt! Race with one of the best car dynamics models to date, including real time vehicle deformation and damage, built from over 15 years experience.",
+      "name": "Rush Rally 3",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "Racing Game",
+      "tintColor": "018084",
+      "version": "1.114",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.marmalade.monopoly",
+      "developerName": "Hasbro",
+      "downloadURL": "http://down100.dailyuploads.net:182/d/ymcby6choghlriin2naowgieic3nz2sswbvewcnwhvakhkrmhzlgg2js/Monopoly%20(v1.7.12%20v9173%20unk%20DY%20FW%2064bit%20os110%20ok14)-user_hidden.bfi.ipa",
+      "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/12/8d/e7/128de71f-046c-4b37-f2fb-4c9164cc8c17/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "localizedDescription": "Play Hasbro’s official Monopoly board game by yourself, with family and friends or players around the world. Play online or offline on your mobile or tablet. It’s the game you love with no ads!\nIt's the #1 Paid board game in over 100 countries - with 3 Millions Downloads since launch.",
+      "name": "Monopoly",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "Classic Board Game",
+      "tintColor": "018084",
+      "version": "1.7.12",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "jp.co.bandainamcoent.BNEI0361",
+      "developerName": "Bandai Namco Entertainment",
+      "downloadURL": "http://down111.dailyuploads.net:182/d/yicbttchoghlriin2zakktyoj34bxotnib3lkhlt7inrdjow6wzhkyjc/Taiko%20Pop%20Tap%20(v1.7.0%20v94%20unk%20FW%2064bit%20os130%20ok14)-user_hidden.bfi.ipa",
+      "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/3d/8d/b7/3d8db783-e208-2c09-7cf6-e921e82b4af9/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Sync to the rhythm and drum away to those notes!\nThe traditional Japanese drumming rhythm game, Taiko no Tatsujin, comes to Apple Arcade.",
+      "name": "Taiko no Tatsujin",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 700000000,
+      "subtitle": "Taiko no Tatsujin Pop Tap Beat",
+      "tintColor": "018084",
+      "version": "1.7.0",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.frogmindgames.badland3",
+      "developerName": "HypeHype",
+      "downloadURL": "http://down111.dailyuploads.net:182/d/yicgrashoghlriin2raoueadj4gnv4qeiflfl4sxyriqy6me5lh5jp5m/Badland%20Party%20(v1.1.0%20v67%20unk%2064bit%20os130%20ok14)-user_hidden.bfi.ipa",
+      "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/73/6b/dd/736bdd50-8ba5-8483-42f9-459c9a74471b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "A new BADLAND game with ONLINE MULTIPLAYER! Play together with friends and family, or explore the atmospheric world by yourself!\n\nDiscover the next game in the multi-award-winning hit series that follows Apple’s Game of the Year and Design Award winning BADLAND and BADLAND 2, enjoyed by over 150 million players around the world.",
+      "name": "Badland Party",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 218479600,
+      "subtitle": "Badland Party",
+      "tintColor": "018084",
+      "version": "1.1.0",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.lego.games.brawls",
+      "developerName": "LEGO",
+      "downloadURL": "http://down100.dailyuploads.net:182/d/ymcfntv3oghlriinenaogeccisgcka6jdsoeit56w6fdqecpiuqervi3/Lego%20Brawls%20(v4.1%20v6285%20unk%20FW%2064bit%20os135%20ok14)-user_hidden.bfi.ipa",
+      "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/18/35/4a/18354aa9-cb92-7f48-912f-c52eca4e181c/source/512x512bb.jpg",
+      "localizedDescription": "Build your way to the top in this lighthearted, team action brawler where anything can happen.\n\n\n• Design your own heroic minifig with unique brawling abilities!\n\n• Build ridiculous power-ups out of bricks!\n\n• Work with your team to control iconic LEGO levels!\n\n• Compete in 8 different arenas, including classic favorites like Castle and newcomers like Jurassic World!\n\n• Expand your collection of minifigs and power-ups!\n\n• Become the ultimate brawler!",
+      "name": "Lego Brawls",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 1200000000,
+      "subtitle": "Lego Brawls",
+      "tintColor": "018084",
+      "version": "4.1",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.wb.LNJGO",
+      "developerName": "Warner Bros",
+      "downloadURL": "https://qdhw9.leaderhero.com/repoe/20210110/LEGONinjago_v1.0.0_os8.0__210110231334_pandahelp.vip.ipa",
+      "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple69/v4/07/42/bb/0742bb9c-c066-1e60-736b-337ab92f5077/mzl.bhvzzaaf.jpg/246x0w.jpg",
+      "localizedDescription": "There is a new threat in Ninjago, and he goes by the name of Ronin. With help from his army of dark samurai, Ronin steals the Ninjas’ memories using an ancient weapon called the Obsidian Glaive.",
+      "name": "LEGO® Ninjago™: Shadow of Ronin",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 1000000000,
+      "subtitle": "LEGO® Ninjago™: Shadow of Ronin",
+      "tintColor": "018084",
+      "version": "1.2",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.wb.LEGOJurassicWorld",
+      "developerName": "Warner Bros",
+      "downloadURL": "https://qdhw9.leaderhero.com/repoe/20210110/LEGOJurassic_v1.0.0_os8.0__210110215344_pandahelp.vip.ipa",
+      "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple69/v4/38/05/2c/38052c96-550e-2d69-832c-7186c8f015e8/source/175x175bb.jpg",
+      "localizedDescription": "Following the epic storylines of Jurassic Park, The Lost World: Jurassic Park and Jurassic Park III, as well as the global smash hit Jurassic World, LEGO Jurassic World™ is the first videogame where you can relive and experience all four colossal films. Reimagined in LEGO form and told in TT Games’ signature classic LEGO humor, this thrilling adventure recreates unforgettable scenes and action sequences from the films, allowing fans worldwide to play through key moments and giving them the opportunity to fully explore the expansive grounds of Isla Nublar and Isla Sorna.",
+      "name": "LEGO® Jurassic World",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 1000000000,
+      "subtitle": "LEGO® Jurassic World",
+      "tintColor": "018084",
       "version": "1.0",
-      "versionDate": "2020-06-17T12:30:00-07:00",
-      "versionDescription": "Initial version 🎉",
-      "downloadURL": "https://f000.backblazeb2.com/file/altstore/apps/clip/1_0.ipa",
-      "localizedDescription": "Clip is a simple clipboard manager for iOS. \n\nUnlike other clipboard managers, Clip can continue monitoring your clipboard while in the background. No longer do you need to remember to manually open or share to an app to save your clipboard; just copy and paste as you would normally do, and Clip will have your back.\n\nIn addition to background monitoring, Clip also has these features:\n\n• Save text, URLs, and images copied to the clipboard.\n• Copy, delete, or share any clippings saved to Clip.\n• Customizable history limit.\n\nDownload Clip today, and never worry about losing your clipboard again!",
-      "iconURL": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
-      "tintColor": "EC008C",
-      "size": 445056,
-      "permissions": [
-        {
-          "type": "background-audio",
-          "usageDescription": "Allows Clip to continuously monitor your clipboard in the background."
-        }
-      ],
-      "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/63391950-34286600-c37a-11e9-965f-832efe3da507.png",
-        "https://user-images.githubusercontent.com/705880/70830209-8e738980-1da4-11ea-8b3b-6e5fbc78adff.png"
-      ]
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
     },
     {
-      "name": "Clip",
-      "bundleIdentifier": "com.rileytestut.Clip.Beta",
-      "subtitle": "Manage your clipboard history with ease.",
-      "developerName": "Riley Testut",
-      "version": "1.1b1",
-      "versionDate": "2020-06-17T12:30:00-07:00",
-      "versionDescription": "This update adds a Custom Keyboard app extension for quick access to clippings when editing text.\n\nTo enable the keyboard, go to Settings > General > Keyboard > Keyboards > Add New Keyboard... and add \"ClipBoard\". Once added, make sure to then enable \"Allow Full Access\" for ClipBoard so it can access your clippings.",
-      "downloadURL": "https://f000.backblazeb2.com/file/altstore/apps/clip/1_1_b1.ipa",
-      "localizedDescription": "Clip is a simple clipboard manager for iOS. \n\nUnlike other clipboard managers, Clip can continue monitoring your clipboard while in the background. No longer do you need to remember to manually open or share to an app to save your clipboard; just copy and paste as you would normally do, and Clip will have your back.\n\nIn addition to background monitoring, Clip also has these features:\n\n• Save text, URLs, and images copied to the clipboard.\n• Copy, delete, or share any clippings saved to Clip.\n• Customizable history limit.\n\nDownload Clip today, and never worry about losing your clipboard again!",
-      "iconURL": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
-      "tintColor": "EC008C",
-      "size": 462771,
-      "beta": true,
-      "permissions": [
-        {
-          "type": "background-audio",
-          "usageDescription": "Allows Clip to continuously monitor your clipboard in the background."
-        }
-      ],
+      "beta": false,
+      "bundleIdentifier": "com.rileytestut.AltStore.Beta",
+      "developerName": "Cartoon Network",
+      "downloadURL": "http://down100.dailyuploads.net:182/d/ymcmaashoghlriin2jaouqqfd3w5iqdhtk227wfbmrk5kjposassazoa/Unleash%20the%20Light%20(v4.0.0%20v528%20unk%20FW%2064bit%20os130%20ok14)-user_hidden.bfi.ipa",
+      "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/a9/a5/a8/a9a5a893-8175-db91-f4a3-4d54ec7a8d5e/source/100x100bb.jpg",
+      "localizedDescription": "Play Unleash the Light with Apple Arcade, a subscription service with over 100 groundbreaking new games.\nJoin the Crystal Gems for the ultimate mobile RPG. It’s time to Unleash the Light!\n8 PLAYABLE CHARACTERS\nPlay as your favorite Steven Universe characters, including Steven, Garnet, Pearl, Amethyst, Lapis Lazuli, Bismuth, Peridot, and Connie riding Lion!",
+      "name": "Unleash the Light",
       "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/63391950-34286600-c37a-11e9-965f-832efe3da507.png",
-        "https://user-images.githubusercontent.com/705880/70830209-8e738980-1da4-11ea-8b3b-6e5fbc78adff.png",
-        "https://user-images.githubusercontent.com/705880/84842227-70a80b00-aff9-11ea-8b04-bedb1f49c4a7.PNG",
-        "https://user-images.githubusercontent.com/705880/84842231-7271ce80-aff9-11ea-9272-e128aeceb95b.PNG"
-      ]
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "Unleash the Light",
+      "tintColor": "018084",
+      "version": "3.0.0",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.turner.stevenrpg",
+      "developerName": "Cartoon Network",
+      "downloadURL": "https://qdhw9.leaderhero.com/repoe/20210110/AttackLight_v1.1.2_os7.0__210110025447_pandahelp.vip.ipa",
+      "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple69/v4/20/8b/0d/208b0de5-77a7-bac0-e0c5-64c73b870ef9/source/175x175bb.jpg",
+      "localizedDescription": "Team up as Garnet, Pearl, Amethyst, and Steven to stop a powerful Gem weapon in Attack the Light!\n",
+      "name": "Attack the Light",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 20000000,
+      "subtitle": "Attack the Light - Steven Universe Light RPG",
+      "tintColor": "018084",
+      "version": "1.1.2",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.wb.scribblenauts3",
+      "developerName": "Warner Bros",
+      "downloadURL": "https://qdhw9.leaderhero.com/repoe/20210110/ScribblenautsUnlimited_v1.22_os8.0__210110132213_pandahelp.vip.ipa",
+      "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple111/v4/06/35/06/063506a8-b7e8-25da-3e48-15141b5dbef7/source/175x175bb.jpg",
+      "localizedDescription": "Welcome to an adventure into a wide-open world, where the most powerful tool is still your imagination. Help Maxwell solve robust puzzles across dozens of seamless, free-roaming levels by summoning any object you can think of. Or you can apply adjectives to existing objects and magically transform their properties! Then learn the back-story about Maxwell''''s parents, 41 siblings (including his twin sister Lily), and how he got his magical notepad.",
+      "name": "Scribblenauts Unlimited",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "Scribblenauts Unlimited",
+      "tintColor": "018084",
+      "version": "1.22",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.wb.Scribblenauts",
+      "developerName": "Warner Bros",
+      "downloadURL": "https://data.terabox.com/file/043dfeaa66187619df217634bb916d84?bkt=en-2e2b5030dd6ff03709c7a7f6dbc8df5e46b26ac44cbf329dfbebfa4ae3ba1fc763b635ad0c4f1457&fid=4398443745265-250528-734037756166062&time=1656318144&sign=FDTAXUGERLQlBHSKfWa-DCb740ccc5511e5e8fedcff06b081203-t3KS0f9%2B3lhGFfNWeWwXi4vEl3w%3D&signbak=&to=140&size=206676139&sta_dx=206676139&sta_cs=1&sta_ft=ipa&sta_ct=0&sta_mt=0&fm2=MH%2Cdefault_region%2CAnywhere%2C%2C%2Cany&region=default_region&ctime=1656318076&mtime=1656318076&resv0=-1&resv1=0&resv2=rlim&resv3=5&resv4=206676139&vuk=4398443745265&iv=0&htype=&randtype=&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=en-1c83ad0293ff78b72cbc29493ffe5ac1ce7bf05a2714ff765c8fa1d2e53500174da051364dbf846f&sl=68091977&expires=1656346944&rt=sh&r=268699104&sh=1&vbdid=-&fin=Scribblenauts_v7.8_os6.0__210109233920_pandahelp.vip.ipa&fn=Scribblenauts_v7.8_os6.0__210109233920_pandahelp.vip.ipa&rtype=1&dp-logid=4120952132687064119&dp-callid=0.1&hps=1&tsl=2000&csl=2000&fsl=-1&csign=OcCgpzmuLrd1aFqcXOJJqFsW3pQ%3D&so=0&ut=6&uter=4&serv=0&uc=1595801768&ti=14a3010384c1ca3c38b1884a650b6e44b27cfa644b89106bc48031c257b32a4e&adg=&reqlabel=250528_f_f07f53358421eba499bce68c38a1ccda_-1_6aa69f4ada60806ec5a1967022772dc4&ccn=XK&by=themis",
+      "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/3c/75/a7/3c75a7da-fdd3-3d8a-a2bc-121c47a1302f/mzl.oyovosxr.png/246x0w.jpg",
+      "localizedDescription": "THINK IT! CREATE IT! SOLVE IT! The award-winning, best-selling video game is now available for the iPhone, iPod touch and iPad.",
+      "name": "Scribblenauts Remix",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "Scribblenauts Remix",
+      "tintColor": "018084",
+      "version": "7.5",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.marmalade.battleship",
+      "developerName": "Hasbro",
+      "downloadURL": "http://down111.dailyuploads.net:182/d/yicjud5roghlriinjvalceqoientjafoue5uwuin7p4idlliopnehg7q/BATTLESHIP_1.2.9_Telefonbuch%20.ipa",
+      "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/8f/5e/89/8f5e895c-16e9-aa7b-a88d-f1796fd8924e/source/100x100bb.jpg",
+      "localizedDescription": "You sank my battleship!\nThe official version of the classic Hasbro board game of naval combat is now on mobile! Challenge other players in Classic Mode or in the all-new Commanders Mode - a fast-paced, strategic and tactical variation. Play with unique naval commanders and use resources to activate powerful special abilities that will secure you a win as you wage war on the high seas.",
+      "name": "Hasbro's BATTLESHIP",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "Hasbro's BATTLESHIP",
+      "tintColor": "018084",
+      "version": "0.2.1",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.ea.sims3",
+      "developerName": "EA",
+      "downloadURL": "https://qdhw9.leaderhero.com/repoe/20210111/TheSims3_v1.3.155_os6.1__210111010523_pandahelp.vip.ipa",
+      "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple5/v4/66/78/f6/6678f65a-e38d-12a4-c3a6-bd957e1e4adc/source/175x175bb.jpg",
+      "localizedDescription": "YOU’VE NEVER SEEN THE SIMS LIKE THIS BEFORE! This #1 bestselling award-winner* is better than ever on iPhone and iPod touch. Enjoy visual quality made to maximize the Retina Display plus Fast App Switching to get you in and out of game sessions faster than ever. Long live The Sims!",
+      "name": "The Sims 3",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 3004806,
+      "subtitle": "The Sims 3",
+      "tintColor": "018084",
+      "version": "1.3.155",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "org.brandonplank.flappybird",
+      "developerName": "DOTGears",
+      "downloadURL": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/228292677/0bbcb79c-dc1e-48cd-8666-9d4a1e29ff8e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220624%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220624T094234Z&X-Amz-Expires=300&X-Amz-Signature=8fb5a254c055e157d001766bf2574f5d674fde8ec32c7c5d5846fa33fc6cf44f&X-Amz-SignedHeaders=host&actor_id=80478323&key_id=0&repo_id=228292677&response-content-disposition=attachment%3B%20filename%3Dorg.brandonplank.flappybird.ipa&response-content-type=application%2Foctet-stream",
+      "iconURL": "https://cdn.discordapp.com/attachments/989816319937511484/989828410312380446/Flappy_Bird_icon.png?size=4096",
+      "localizedDescription": "The original flappy bird!",
+      "name": "Flappy Bird",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "Flappy Bird is Back!",
+      "tintColor": "83F05B",
+      "version": "1.0.0",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "Its back!"
     }
   ],
   "news": [

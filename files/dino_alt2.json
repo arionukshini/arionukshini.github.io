@@ -4,11 +4,11 @@
   "sourceURL": "https://raw.githubusercontent.com/ItsDiino/itsdiino.github.io/main/files/dino_alt2.json",
   "apps": [
     {
-	  "name": "60 Seconds!",
+      "name": "60 Seconds!",
       "bundleIdentifier": "com.robotgentleman.game60seconds",
       "developerName": "Robot Gentelman",
-	  "version": "1.27.9",
-	  "versionDate": "2020-03-24T14:00:00-07:00",
+      "version": "1.27.9",
+      "versionDate": "2020-03-24T14:00:00-07:00",
       "versionDescription": ""
       "downloadURL": "http://down111.dailyuploads.net:182/d/yicoaxexoghlriinlfbomgitah56sd6wtxa7ni3cardt4t2j32faar4j/game60seconds_1.27.9_telefonbuchios13ok1116.ipa",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/09/ed/de/09edde83-d532-c705-5063-a6396e53b41c/source/512x512bb.jpg",

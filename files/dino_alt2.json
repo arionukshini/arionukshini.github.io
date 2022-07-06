@@ -4,9 +4,9 @@
   "sourceURL": "https://raw.githubusercontent.com/ItsDiino/itsdiino.github.io/main/files/dino_alt2.json",
   "apps": [
     {
-      "name": "AltStore",
-      "bundleIdentifier": "com.rileytestut.AltStore",
-      "developerName": "Riley Testut",
+      "name": "TestAPP1",
+      "bundleIdentifier": "com.dino.test",
+      "developerName": "Diino",
       "version": "1.5",
       "versionDate": "2022-05-06T08:00:00-07:00",
       "versionDescription": "TRUSTED SOURCES\n• Download and update certain third party apps entirely through AltStore\n• Add Trusted Sources directly from the new Sources page\n• Trusted Sources are sources we’ve explicitly approved that meet our safety standards\n• You can still sideload any .ipa you want via the \"+\" button in My Apps \n• Support for adding any source by URL will be coming later\n\nALTJIT\n• Allows sideloaded apps to use Just-in-Time (JIT) compilation\n• Long-press an app in My Apps, then choose “Enable JIT”\n• JIT will remain enabled until the app is quit\n• Requires iOS 14 or later\n• Requires AltServer 1.5 or later\n\nIMPROVED\n• Adds Shane to credits and Patreon screen\n• Loads “Friend Tier” Patrons much faster on Patreon screen\n\nFIXED\n• Fixed a potential crash when sideloading certain apps\n• Fixed some apps having access to AltStore’s app group after being (de-)activated\n• Fixed Core Data error when not connected to internet",
@@ -32,9 +32,9 @@
       ]
     },
     {
-      "name": "AltStore",
-      "bundleIdentifier": "com.rileytestut.AltStore.Beta",
-      "developerName": "Riley Testut",
+      "name": "TestAPP2",
+      "bundleIdentifier": "com.diino.2test",
+      "developerName": "Diino",
       "subtitle": "An alternative App Store for iOS.",
       "version": "1.5.1b",
       "versionDate": "2022-05-27T12:00:00-07:00",
@@ -44,7 +44,7 @@
       "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
       "tintColor": "018084",
       "size": 5464776,
-      "beta": true,
+      "beta": false,
       "screenshotURLs": [
         "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
         "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",

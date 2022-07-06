@@ -4,17 +4,62 @@
   "sourceURL": "https://raw.githubusercontent.com/ItsDiino/itsdiino.github.io/main/files/dino_alt2.json",
   "apps": [
     {
-      "name": "60 Seconds!",
-      "bundleIdentifier": "com.robotgentleman.game60seconds",
-      "developerName": "Robot Gentelman",
-      "version": "1.27.9",
-      "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": ""
-      "downloadURL": "http://down111.dailyuploads.net:182/d/yicoaxexoghlriinlfbomgitah56sd6wtxa7ni3cardt4t2j32faar4j/game60seconds_1.27.9_telefonbuchios13ok1116.ipa",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/09/ed/de/09edde83-d532-c705-5063-a6396e53b41c/source/512x512bb.jpg",
-      "localizedDescription": "60 Seconds! is a dark comedy atomic adventure of scavenge and survival. Collect supplies and rescue your family before the nuke hits. Stay alive in your fallout shelter. Make difficult decisions, ration food and hunt mutant cockroaches. And maybe survive. Or not.",
-      "size": 322184796,
-      "tintColor": "018084"
+      "name": "AltStore",
+      "bundleIdentifier": "com.rileytestut.AltStore",
+      "developerName": "Riley Testut",
+      "version": "1.5",
+      "versionDate": "2022-05-06T08:00:00-07:00",
+      "versionDescription": "TRUSTED SOURCES\n• Download and update certain third party apps entirely through AltStore\n• Add Trusted Sources directly from the new Sources page\n• Trusted Sources are sources we’ve explicitly approved that meet our safety standards\n• You can still sideload any .ipa you want via the \"+\" button in My Apps \n• Support for adding any source by URL will be coming later\n\nALTJIT\n• Allows sideloaded apps to use Just-in-Time (JIT) compilation\n• Long-press an app in My Apps, then choose “Enable JIT”\n• JIT will remain enabled until the app is quit\n• Requires iOS 14 or later\n• Requires AltServer 1.5 or later\n\nIMPROVED\n• Adds Shane to credits and Patreon screen\n• Loads “Friend Tier” Patrons much faster on Patreon screen\n\nFIXED\n• Fixed a potential crash when sideloading certain apps\n• Fixed some apps having access to AltStore’s app group after being (de-)activated\n• Fixed Core Data error when not connected to internet",
+      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_5.ipa",
+      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis version of AltStore allows you to install Delta, an all-in-one emulator for iOS, as well as sideload other .ipa files from the Files app.",
+      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+      "tintColor": "018084",
+      "size": 5459395,
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
+        "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
+      "permissions": [
+        {
+          "type": "background-fetch",
+          "usageDescription": "AltStore periodically refreshes apps in the background to prevent them from expiring."
+        },
+        {
+          "type": "background-audio",
+          "usageDescription": "Allows AltStore to run longer than 30 seconds when refreshing apps in background."
+        }
+      ]
+    },
+    {
+      "name": "AltStore",
+      "bundleIdentifier": "com.rileytestut.AltStore.Beta",
+      "developerName": "Riley Testut",
+      "subtitle": "An alternative App Store for iOS.",
+      "version": "1.5.1b",
+      "versionDate": "2022-05-27T12:00:00-07:00",
+      "versionDescription": "This beta fixes the following issues:\n\n• Using Apple IDs that contain capital letters\n• Using Apple IDs with 2FA enabled without any trusted devices\n• Repeatedly asking some users to sign in every refresh\n• \"Incorrect Apple ID or password\" error after changing Apple ID email address\n• “Application is missing application-identifier” error when sideloading or (de-)activating certain apps",
+      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_5_1_b.ipa",
+      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis beta release of AltStore adds support for 3rd party sources, allowing you to download apps from other developers directly through AltStore.",
+      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+      "tintColor": "018084",
+      "size": 5464776,
+      "beta": true,
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
+        "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
+      "permissions": [
+        {
+          "type": "background-fetch",
+          "usageDescription": "AltStore periodically refreshes apps in the background to prevent them from expiring."
+        },
+        {
+          "type": "background-audio",
+          "usageDescription": "Allows AltStore to run longer than 30 seconds when refreshing apps in background."
+        }
+      ]
     }
   ],
   "news": [

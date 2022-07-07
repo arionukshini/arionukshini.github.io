@@ -1,4 +1,7 @@
 {
+  "identifier": "com.test.amongus",
+  "name": "Testing Source",
+  "sourceURL": "https://raw.githubusercontent.com/ItsDiino/itsdiino.github.io/main/files/testsrc.json",
   "apps": [
     {
       "beta": false,
@@ -38,8 +41,6 @@
       "versionDescription": "This app is new af like bruh!"
     }
   ],
-  "identifier": "com.test.amongus",
-  "name": "Testing Source",
   "news": [
     {
       "appID": "com.dino.death",
@@ -64,6 +65,5 @@
       "url": "https://discord.com/"
     }
   ],
-  "sourceURL": "https://raw.githubusercontent.com/ItsDiino/itsdiino.github.io/main/files/testsrc.json",
   "userInfo": {}
 }

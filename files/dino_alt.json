@@ -1,4 +1,7 @@
 {
+  "name": "Diino's Apps",
+  "identifier": "com.diino.apps",
+  "sourceURL": "https://raw.githubusercontent.com/ItsDiino/itsdiino.github.io/main/files/dino_alt.json",
   "apps": [
     {
       "beta": false,
@@ -9,14 +12,16 @@
       "localizedDescription": "60 Seconds! is a dark comedy atomic adventure of scavenge and survival. Collect supplies and rescue your family before the nuke hits. Stay alive in your fallout shelter. Make difficult decisions, ration food and hunt mutant cockroaches. And maybe survive. Or not.",
       "name": "60 Seconds!",
       "screenshotURLs": [
-        ""
+        "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
+        "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
       ],
       "size": 322184796,
       "subtitle": "Atomic Adventure",
       "tintColor": "018084",
       "version": "1.27.9",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": ""
+      "versionDescription": "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
     },
     {
       "beta": false,
@@ -27,14 +32,16 @@
       "localizedDescription": "Dolores, Ted, Mary Jane and Timmy return to face the nuclear apocalypse in this new, remastered edition of the classic atomic adventure - 60 Seconds! Reatomized, featuring high resolution art support, refreshed 2D graphics and hand-drawn 3D textures, new interactive menu, improved UI system, a technical refresh, and of course... new content!",
       "name": "60 Seconds! Reatomized",
       "screenshotURLs": [
-        ""
+        "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
+        "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
       ],
       "size": 222184796,
       "subtitle": "Reatomized!",
       "tintColor": "018084",
       "version": "1.2.2",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": ""
+      "versionDescription": "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
     },
     {
       "beta": false,
@@ -45,14 +52,15 @@
       "localizedDescription": "Atomic Space Age was a blast! Until it became the Post-Apocalyptic Space Age.\n\nYour space station is about to explode and you only have 60 seconds before things get messy. What (or who) will you grab before you make a mad dash for the emergency shuttle and begin your journey into THE GREAT UNKNOWN?\n\nThis is 60 Parsecs!, a dark comedy sci-fi adventure set in the Atomic Space Age - complete with all the Cold War paranoia, chrome-plated wall accents and cockroaches with space helmets.",
       "name": "60 Parsecs!",
       "screenshotURLs": [
-        ""
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413",
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
       ],
       "size": 662184796,
       "subtitle": "60 Parsecs!",
       "tintColor": "018084",
       "version": "1.1.4",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": ""
+      "versionDescription": "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
     },
     {
       "beta": false,
@@ -63,14 +71,15 @@
       "localizedDescription": "Have you ever thought about building up your own empire, without the risk of ending up sleeping under a bridge? Become the owner of a pawn shop and haggle like your life depends on it!\n\nStart small, grow big!\nBegin your journey in a rundown shack and build up your business day by day by negotiating with customers, hiring employees and partaking in auctions.\nBut be careful! Scammers will try to take advantage of you with fake items and if someone ever wants to sell you a questionable “insurance” better choose your next words wisely...\nEach customer behaves differently during negotiations according to their unique psychological traits. It’s up to you to understand who you have in front of you, how to treat them and how to seal the deal!\nUse all your negotiation, psychology and management skills to create your pawn empire!",
       "name": "Dealer's Life 2",
       "screenshotURLs": [
-        ""
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413",
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
       ],
       "size": 1200000,
       "subtitle": "Dealer's Life 2 By Abyte Entertainment Ltd v1.006_I19",
       "tintColor": "018084",
       "version": "1.006",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": ""
+      "versionDescription": "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
     },
     {
       "beta": false,
@@ -81,14 +90,15 @@
       "localizedDescription": "The world''''s fastest hedgehog is back in SONIC RACING! Take control of one of 15 playable characters from the Sonic universe and compete in the ultimate multiplayer racing experience. COLLECT power-ups, SET traps and ATTACK competitors all while driving at high speed. Ready, Set, RACE!\nDECIDE HOW YOU WANT TO PLAY! Enjoy single-player mode, play with your friends or go big and play with people around the world in multiplayer mode.\nCREATE YOUR TEAM! Each character has its own unique advantages and brings a special Team Ability into the mix.\nNUMEROUS TRACKS TO RACE! 15 tracks in total, each split across 5 zones.\nWISPS ARE BACK! 15 spectacular creatures to help overcome rival teams and get ahead. They are always ready to offer help whenever needed.\nKEEP RACING! Get more rewards the more you race. Complete challenges and earn even more prizes.\nThe ultimate speed experience is waiting for you! Ready, Set, RACE!",
       "name": "Sonic Racing",
       "screenshotURLs": [
-        ""
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413",
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
       ],
       "size": 102184796,
       "subtitle": "Racing Game with Sonic",
       "tintColor": "018084",
       "version": "1.3.1",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": ""
+      "versionDescription": "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
     },
     {
       "beta": false,
@@ -99,14 +109,15 @@
       "localizedDescription": "A story mode for minecraft!\nThe second version!",
       "name": "Minecraft: Story Mode 2",
       "screenshotURLs": [
-        ""
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413",
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
       ],
       "size": 2184796,
       "subtitle": "Story Mode 2",
       "tintColor": "018084",
       "version": "1.6",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": ""
+      "versionDescription": "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
     },
     {
       "beta": false,
@@ -117,14 +128,15 @@
       "localizedDescription": "A Story Mode for Minecraft!",
       "name": "Minecraft: Story Mode",
       "screenshotURLs": [
-        ""
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413",
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
       ],
       "size": 60000000,
       "subtitle": "Story Mode",
       "tintColor": "018084",
       "version": "1.7",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": ""
+      "versionDescription": "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413\nhttps://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
     },
     {
       "beta": false,
@@ -135,14 +147,15 @@
       "localizedDescription": "Infinite Flight offers the most comprehensive flight simulation experience on mobile devices, whether you are a curious novice or a decorated pilot. Explore high definition scenery in regions from around the world with our diverse inventory of detailed aircraft, tailoring each flight by choosing your time of day, weather conditions, and aircraft weight configuration.",
       "name": "Infinite Flight Simulator",
       "screenshotURLs": [
-        ""
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413",
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
       ],
       "size": 2184796,
       "subtitle": "Flight Sim",
       "tintColor": "018084",
       "version": "22.04.01",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": ""
+      "versionDescription": "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413\nhttps://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
     },
     {
       "beta": false,
@@ -153,14 +166,15 @@
       "localizedDescription": "Rush Rally 3 is the most realistic rally simulation on your mobile.\n\nCONSOLE QUALITY RALLYING\n60fps racing at night or day in the rain or snow! Over 72 new and unique stages each with different surface types including snow, gravel, tarmac and dirt! Race with one of the best car dynamics models to date, including real time vehicle deformation and damage, built from over 15 years experience.",
       "name": "Rush Rally 3",
       "screenshotURLs": [
-        ""
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413",
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
       ],
       "size": 2184796,
       "subtitle": "Racing Game",
       "tintColor": "018084",
       "version": "1.114",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": ""
+      "versionDescription": "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413\nhttps://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
     },
     {
       "beta": false,
@@ -171,14 +185,15 @@
       "localizedDescription": "Play Hasbro’s official Monopoly board game by yourself, with family and friends or players around the world. Play online or offline on your mobile or tablet. It’s the game you love with no ads!\nIt's the #1 Paid board game in over 100 countries - with 3 Millions Downloads since launch.",
       "name": "Monopoly",
       "screenshotURLs": [
-        ""
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413",
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
       ],
       "size": 2184796,
       "subtitle": "Classic Board Game",
       "tintColor": "018084",
       "version": "1.7.12",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": ""
+      "versionDescription": "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413\nhttps://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
     },
     {
       "beta": false,
@@ -189,14 +204,15 @@
       "localizedDescription": "Sync to the rhythm and drum away to those notes!\nThe traditional Japanese drumming rhythm game, Taiko no Tatsujin, comes to Apple Arcade.",
       "name": "Taiko no Tatsujin",
       "screenshotURLs": [
-        ""
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413",
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
       ],
       "size": 700000000,
       "subtitle": "Taiko no Tatsujin Pop Tap Beat",
       "tintColor": "018084",
       "version": "1.7.0",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": ""
+      "versionDescription": "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413\nhttps://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
     },
     {
       "beta": false,
@@ -207,14 +223,15 @@
       "localizedDescription": "A new BADLAND game with ONLINE MULTIPLAYER! Play together with friends and family, or explore the atmospheric world by yourself!\n\nDiscover the next game in the multi-award-winning hit series that follows Apple’s Game of the Year and Design Award winning BADLAND and BADLAND 2, enjoyed by over 150 million players around the world.",
       "name": "Badland Party",
       "screenshotURLs": [
-        ""
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413",
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
       ],
       "size": 218479600,
       "subtitle": "Badland Party",
       "tintColor": "018084",
       "version": "1.1.0",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": ""
+      "versionDescription": "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413\nhttps://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
     },
     {
       "beta": false,
@@ -225,14 +242,15 @@
       "localizedDescription": "Build your way to the top in this lighthearted, team action brawler where anything can happen.\n\n\n• Design your own heroic minifig with unique brawling abilities!\n\n• Build ridiculous power-ups out of bricks!\n\n• Work with your team to control iconic LEGO levels!\n\n• Compete in 8 different arenas, including classic favorites like Castle and newcomers like Jurassic World!\n\n• Expand your collection of minifigs and power-ups!\n\n• Become the ultimate brawler!",
       "name": "Lego Brawls",
       "screenshotURLs": [
-        ""
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413",
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
       ],
       "size": 1200000000,
       "subtitle": "Lego Brawls",
       "tintColor": "018084",
       "version": "4.1",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": ""
+      "versionDescription": "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413\nhttps://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
     },
     {
       "beta": false,
@@ -243,14 +261,15 @@
       "localizedDescription": "There is a new threat in Ninjago, and he goes by the name of Ronin. With help from his army of dark samurai, Ronin steals the Ninjas’ memories using an ancient weapon called the Obsidian Glaive.",
       "name": "LEGO® Ninjago™: Shadow of Ronin",
       "screenshotURLs": [
-        ""
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413",
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
       ],
       "size": 1000000000,
       "subtitle": "LEGO® Ninjago™: Shadow of Ronin",
       "tintColor": "018084",
       "version": "1.2",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": ""
+      "versionDescription": "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413\nhttps://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
     },
     {
       "beta": false,
@@ -261,14 +280,15 @@
       "localizedDescription": "Following the epic storylines of Jurassic Park, The Lost World: Jurassic Park and Jurassic Park III, as well as the global smash hit Jurassic World, LEGO Jurassic World™ is the first videogame where you can relive and experience all four colossal films. Reimagined in LEGO form and told in TT Games’ signature classic LEGO humor, this thrilling adventure recreates unforgettable scenes and action sequences from the films, allowing fans worldwide to play through key moments and giving them the opportunity to fully explore the expansive grounds of Isla Nublar and Isla Sorna.",
       "name": "LEGO® Jurassic World",
       "screenshotURLs": [
-        ""
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413",
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
       ],
       "size": 1000000000,
       "subtitle": "LEGO® Jurassic World",
       "tintColor": "018084",
       "version": "1.0",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": ""
+      "versionDescription": "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413\nhttps://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
     },
     {
       "beta": false,
@@ -279,14 +299,15 @@
       "localizedDescription": "Play Unleash the Light with Apple Arcade, a subscription service with over 100 groundbreaking new games.\nJoin the Crystal Gems for the ultimate mobile RPG. It’s time to Unleash the Light!\n8 PLAYABLE CHARACTERS\nPlay as your favorite Steven Universe characters, including Steven, Garnet, Pearl, Amethyst, Lapis Lazuli, Bismuth, Peridot, and Connie riding Lion!",
       "name": "Unleash the Light",
       "screenshotURLs": [
-        ""
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413",
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
       ],
       "size": 2184796,
       "subtitle": "Unleash the Light",
       "tintColor": "018084",
       "version": "3.0.0",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": ""
+      "versionDescription": "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413\nhttps://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
     },
     {
       "beta": false,
@@ -297,14 +318,15 @@
       "localizedDescription": "Team up as Garnet, Pearl, Amethyst, and Steven to stop a powerful Gem weapon in Attack the Light!\n",
       "name": "Attack the Light",
       "screenshotURLs": [
-        ""
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413",
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
       ],
       "size": 20000000,
       "subtitle": "Attack the Light - Steven Universe Light RPG",
       "tintColor": "018084",
       "version": "1.1.2",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": ""
+      "versionDescription": "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413\nhttps://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
     },
     {
       "beta": false,
@@ -315,14 +337,15 @@
       "localizedDescription": "Welcome to an adventure into a wide-open world, where the most powerful tool is still your imagination. Help Maxwell solve robust puzzles across dozens of seamless, free-roaming levels by summoning any object you can think of. Or you can apply adjectives to existing objects and magically transform their properties! Then learn the back-story about Maxwell''''s parents, 41 siblings (including his twin sister Lily), and how he got his magical notepad.",
       "name": "Scribblenauts Unlimited",
       "screenshotURLs": [
-        ""
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413",
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
       ],
       "size": 2184796,
       "subtitle": "Scribblenauts Unlimited",
       "tintColor": "018084",
       "version": "1.22",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": ""
+      "versionDescription": "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413\nhttps://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
     },
     {
       "beta": false,
@@ -333,14 +356,15 @@
       "localizedDescription": "THINK IT! CREATE IT! SOLVE IT! The award-winning, best-selling video game is now available for the iPhone, iPod touch and iPad.",
       "name": "Scribblenauts Remix",
       "screenshotURLs": [
-        ""
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413",
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
       ],
       "size": 2184796,
       "subtitle": "Scribblenauts Remix",
       "tintColor": "018084",
       "version": "7.5",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": ""
+      "versionDescription": "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413\nhttps://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
     },
     {
       "beta": false,
@@ -351,14 +375,15 @@
       "localizedDescription": "You sank my battleship!\nThe official version of the classic Hasbro board game of naval combat is now on mobile! Challenge other players in Classic Mode or in the all-new Commanders Mode - a fast-paced, strategic and tactical variation. Play with unique naval commanders and use resources to activate powerful special abilities that will secure you a win as you wage war on the high seas.",
       "name": "Hasbro's BATTLESHIP",
       "screenshotURLs": [
-        ""
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413",
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
       ],
       "size": 2184796,
       "subtitle": "Hasbro's BATTLESHIP",
       "tintColor": "018084",
       "version": "0.2.1",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": ""
+      "versionDescription": "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413\nhttps://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
     },
     {
       "beta": false,
@@ -369,14 +394,15 @@
       "localizedDescription": "YOU’VE NEVER SEEN THE SIMS LIKE THIS BEFORE! This #1 bestselling award-winner* is better than ever on iPhone and iPod touch. Enjoy visual quality made to maximize the Retina Display plus Fast App Switching to get you in and out of game sessions faster than ever. Long live The Sims!",
       "name": "The Sims 3",
       "screenshotURLs": [
-        ""
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413",
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
       ],
       "size": 3004806,
       "subtitle": "The Sims 3",
       "tintColor": "018084",
       "version": "1.3.155",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": ""
+      "versionDescription": "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413\nhttps://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
     },
     {
       "beta": false,
@@ -387,7 +413,8 @@
       "localizedDescription": "The original flappy bird!",
       "name": "Flappy Bird",
       "screenshotURLs": [
-        ""
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413",
+        "https://media.discordapp.net/attachments/865143737596641292/991748607034265610/IMG_4449.jpg?width=413&height=413"
       ],
       "size": 2184796,
       "subtitle": "Flappy Bird is Back!",
@@ -397,9 +424,6 @@
       "versionDescription": "Its back!"
     }
   ],
-  "identifier": "com.diino.apps",
-  "name": "Diino's Apps",
-  "sourceURL": "https://raw.githubusercontent.com/ItsDiino/itsdiino.github.io/main/files/dino_alt.json",
   "news": [],
   "userInfo": {}
 }

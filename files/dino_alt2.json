@@ -1,185 +1,77 @@
 {
-  "name": "Diino's Source",
-  "identifier": "com.diino.altsource",
-  "sourceURL": "https://raw.githubusercontent.com/ItsDiino/itsdiino.github.io/main/files/dino_alt2.json",
   "apps": [
     {
-      "name": "Battleship",
-      "bundleIdentifier": "com.hasbro.battleship",
-      "developerName": "Hasbro",
-      "version": "1.5",
-      "versionDate": "2022-05-06T08:00:00-07:00",
-      "versionDescription": "The best game is here!! Bugfixes and other stuff on the latest version!"
-      "downloadURL": "http://down111.dailyuploads.net:182/d/yicjud5roghlriinjvalceqoientjafoue5uwuin7p4idlliopnehg7q/BATTLESHIP_1.2.9_Telefonbuch%20.ipa",
-      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis version of AltStore allows you to install Delta, an all-in-one emulator for iOS, as well as sideload other .ipa files from the Files app.",
-      "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/8f/5e/89/8f5e895c-16e9-aa7b-a88d-f1796fd8924e/source/100x100bb.jpg",
-	  "tintColor": "018084",
-      "size": 35459395,
+      "beta": false,
+      "bundleIdentifier": "com.nianticlabs.pokemongo",
+      "developerName": "Dino's Apps",
+      "downloadURL": "https://ipogo.app/download/ipogo-2.6.0.ipa",
+      "iconURL": "https://cdn.discordapp.com/attachments/989816319937511484/989826104531517502/ipogo.png",
+      "localizedDescription": "With iPogo you get a full set of tools to help you be the best. iPogo is a simple, powerful and intuitive app that allows you to teleport to raids, skip animations, auto catch and much more!",
+      "name": "iPoGO",
       "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
-        "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
-        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+        "https://cdn.discordapp.com/attachments/989816319937511484/989826927705604117/location-1.jpg",
+        "https://cdn.discordapp.com/attachments/989816319937511484/989826928083107840/location-2.jpg",
+        "https://cdn.discordapp.com/attachments/989816319937511484/989826928531877898/location-3.jpg"
       ],
-      "permissions": [
-        {
-          "type": "background-fetch",
-          "usageDescription": "AltStore periodically refreshes apps in the background to prevent them from expiring."
-        },
-        {
-          "type": "background-audio",
-          "usageDescription": "Allows AltStore to run longer than 30 seconds when refreshing apps in background."
-        }
-      ]
+      "size": 2184796,
+      "subtitle": "Play Anywhere, Anytime!",
+      "tintColor": "FF6852",
+      "version": "2.6.0",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "** Requires latest AltServer beta to fully work. Download from https://altstore.io/altserver/beta **\n\nThe next big beta feature is here: AltStore now supports 3rd party app sources! Add sources in the Browse tab to expand the number of apps available to download through AltStore.\n\nNEW FEATURES\n• Initial support for 3rd party sources\n• Activate and deactivate apps via drag & drop\n• Option to remove app extensions from apps to save active app slots\n\nBUG FIXES\n• Fixes issue causing .ipa files to appear disabled in document picker\n• Fixes issue causing refreshing to sometimes not finish when using older AltServer\n• Fixes \"invalid app group\" error when installing apps\n• Removes cached apps after they have been uninstalled\n• Fixes peek & pop on iOS 12\n\nPREVIOUS BETA\n• Adds support for activating/deactivating apps to stay under iOS 13.3.1 active app limit\n• Significantly improves performance when refreshing apps\n• Improves error messages when refreshing apps\n• Improves stability when refreshing apps over WiFi\n\nNOTE: Support for 3rd party sources will be disabled in public versions of AltStore until it is finished."
     },
     {
-      "name": "AltApp",
-      "bundleIdentifier": "com.dino.altstore",
-      "developerName": "Riley Testut",
-      "subtitle": "An alternative App Store for iOS.",
-      "version": "1.5.1b",
-      "versionDate": "2022-05-27T12:00:00-07:00",
-      "versionDescription": "This beta fixes the following issues:\n\n• Using Apple IDs that contain capital letters\n• Using Apple IDs with 2FA enabled without any trusted devices\n• Repeatedly asking some users to sign in every refresh\n• \"Incorrect Apple ID or password\" error after changing Apple ID email address\n• “Application is missing application-identifier” error when sideloading or (de-)activating certain apps",
-      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_5_1_b.ipa",
-      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis beta release of AltStore adds support for 3rd party sources, allowing you to download apps from other developers directly through AltStore.",
-      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
-      "tintColor": "018084",
-      "size": 5464776,
+      "beta": false,
+      "bundleIdentifier": "moe.paperback.app",
+      "developerName": "Dino's Apps",
+      "downloadURL": "https://github.com/Paperback-iOS/app/releases/download/v0.7-r45/Paperback.ipa",
+      "iconURL": "https://avatars.githubusercontent.com/u/64667922?s=200&v=4",
+      "localizedDescription": "iPad support\nFriendly layout with a robust double spread chapter reader for iPad.\n\nPlugin support\nPaperback has support for loading third-party plugins by which you can add more content.\n\nNo advertisements\nUnlike other not to be named apps and websites, this is a fully ad-free experience.",
+      "name": "Paperback",
       "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
-        "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
-        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+        "https://avatars.githubusercontent.com/u/64667922?s=200&v=4"
       ],
-      "permissions": [
-        {
-          "type": "background-fetch",
-          "usageDescription": "AltStore periodically refreshes apps in the background to prevent them from expiring."
-        },
-        {
-          "type": "background-audio",
-          "usageDescription": "Allows AltStore to run longer than 30 seconds when refreshing apps in background."
-        }
-      ]
+      "size": 20000000,
+      "subtitle": "An ad-free manga reader for iOS",
+      "tintColor": "C2C2C2",
+      "version": "0.7",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "Fixed search history items not being cleared\nFixed Group Priority not working correctly"
     },
     {
-      "name": "Flappy Bird",
-      "bundleIdentifier": "com.flappy.bird",
-      "developerName": "DOTGears",
-      "subtitle": "Classic game in your pocket.",
-      "version": "1.0.0",
-      "versionDate": "2021-12-02T13:30:00-08:00",
-      "versionDescription": "• Fixes game artwork not loading\n• Fixes using deprecated DeSmuME core over melonDS core for some users",
-      "downloadURL": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/228292677/0bbcb79c-dc1e-48cd-8666-9d4a1e29ff8e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220624%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220624T094234Z&X-Amz-Expires=300&X-Amz-Signature=8fb5a254c055e157d001766bf2574f5d674fde8ec32c7c5d5846fa33fc6cf44f&X-Amz-SignedHeaders=host&actor_id=80478323&key_id=0&repo_id=228292677&response-content-disposition=attachment%3B%20filename%3Dorg.brandonplank.flappybird.ipa&response-content-type=application%2Foctet-stream",
-      "localizedDescription": "Delta is an all-in-one emulator for iOS. Delta builds upon the strengths of its predecessor, GBA4iOS, while expanding to include support for more game systems such as NES, SNES, and N64.\n\nFEATURES\n\nSupported Game Systems\n• Nintendo Entertainment System\n• Super Nintendo Entertainment System\n• Nintendo 64\n• Game Boy (Color)\n• Game Boy Advance\n• Nintendo DS\n• And plenty more to come!\n\nController Support\n• Supports PS4, PS5, Xbox One S, Xbox Series X, and MFi game controllers.\n• Supports bluetooth (and wired) keyboards, as well as the Apple Smart Keyboard.\n• Completely customize button mappings on a per-system, per-controller basis.\n• Map buttons to special “Quick Save”, “Quick Load,” and “Fast Forward” actions.\n\nSave States\n• Save and load save states for any game from the pause menu.\n• Lock save states to prevent them from being accidentally overwritten.\n• Automatically makes backup save states to ensure you never lose your progress.\n• Support for “Quick Saves,” save states that can be quickly saved/loaded with a single button press (requires external controller).\n\nCheats\n• Supports various types of cheat codes for each supported system:\n• NES: Game Genie\n• SNES: Game Genie, Pro Action Replay\n• N64: GameShark\n• GBC: Game Genie, GameShark\n• GBA: Action Replay, Code Breaker, GameShark\n• DS: Action Replay\n\nDelta Sync\n• Sync your games, game saves, save states, cheats, controller skins, and controller mappings between devices.\n• View version histories of everything you sync and optionally restore them to earlier versions.\n• Supports both Google Drive and Dropbox.\n\nCustom Controller Skins\n• Beautiful built-in controller skins for all systems.\n• Import controller skins made by others, or even make your own to share with the world!\n\nHold Button\n• Choose buttons for Delta to hold down on your behalf, freeing up your thumbs to press other buttons instead.\n• Perfect for games that typically require one button be held down constantly (ex: run button in Mario games, or the A button in Mario Kart).\n\nFast Forward\n• Speed through slower parts of games by running the game much faster than normal.\n• Easily enable or disable from the pause menu, or optionally with a mapped button on an external controller.\n\n3D/Haptic Touch\n• Use 3D or Haptic Touch to “peek” at games, save states, and cheat codes.\n• App icon shortcuts allow quick access to your most recently played games, or optionally customize the shortcuts to always include certain games.\n\nGame Artwork\n• Automatically displays appropriate box art for imported games.\n• Change a game’s artwork to anything you want, or select from the built-in game artwork database.\n\nMisc.\n• Gyroscope support (WarioWare: Twisted! only)\n• Microphone support (DS only)\n• Support for delta:// URL scheme to jump directly into a specific game.\n\n**Delta and AltStore LLC are in no way affiliated with Nintendo. The name \"Nintendo\" and all associated game console names are registered trademarks of Nintendo Co., Ltd.**",
-      "iconURL": "https://cdn.discordapp.com/attachments/989816319937511484/989828410312380446/Flappy_Bird_icon.png?size=4096",
-      "tintColor": "8A28F7",
-      "size": 19739373,
-      "permissions": [
-        {
-          "type": "photos",
-          "usageDescription": "Allows Delta to use images from your Photo Library as game artwork."
-        }
-      ],
+      "beta": false,
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Dino's Apps",
+      "downloadURL": "https://github.com/enmity-mod/tweak/releases/download/release-v2.1.0/Enmity.ipa",
+      "iconURL": "https://avatars.githubusercontent.com/u/101209876?s=200&v=4",
+      "localizedDescription": "The power of addons, all in your hand.\n\nEnmity is a Discord Client which allows you to add plugins and themes made by you or the community just like BetterDiscord which is for Desktop!",
+      "name": "Enmity",
       "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/65600448-f7d9be00-df54-11e9-9e3e-d4c31296da94.PNG",
-        "https://user-images.githubusercontent.com/705880/65813009-f2ae8600-e183-11e9-9eb7-704effc11173.png",
-        "https://user-images.githubusercontent.com/705880/65601117-58b5c600-df56-11e9-9c19-9a5ba5da54cf.PNG",
-        "https://user-images.githubusercontent.com/705880/65601125-5b182000-df56-11e9-9e7e-261480e893c0.PNG"
-      ]
+        "https://camo.githubusercontent.com/14451010c093f52112632b97419b1157f539ed65ac6a5f699fac6240ad18b957/68747470733a2f2f7265706f2e656e6d6974792e6170702f62616e6e65722e706e67"
+      ],
+      "size": 62000000,
+      "subtitle": "A Discord Client with plugins and themes",
+      "tintColor": "A84AFF",
+      "version": "2.1.0",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "- Fixed toasts\n- Fixed confirmation modals\n- Added back a reload button in the general tab of settings\n- Fixed issues with the bulk option in getByProps \n- Fixed a case where the enmity section would get placed at the bottom of settings\n- Fixed almost ALL crashes related to plugins/themes not working."
     }
   ],
+  "identifier": "com.dino.app",
+  "name": "Dino's Apps",
   "news": [
     {
-      "title": "Delta Gaining DS Support",
-      "identifier": "delta-ds-support",
-      "caption": "Available this Saturday for patrons, coming soon for everyone else.",
-      "tintColor": "8A28F7",
-      "imageURL": "https://user-images.githubusercontent.com/705880/65603159-0676a400-df5a-11e9-882e-dc5566f4d50a.png",
-      "date": "2019-09-25",
-      "notify": false
-    },
-    {
-      "title": "Delta Now Available",
-      "identifier": "delta-now-available",
-      "caption": "Finally, relive your favorite NES, SNES, GB(C), GBA, and N64 games.",
-      "tintColor": "8A28F7",
-      "imageURL": "https://user-images.githubusercontent.com/705880/65604130-c1ec0800-df5b-11e9-8150-7657c474e3c3.png",
-      "date": "2019-09-28",
-      "notify": true
-    },
-    {
-      "title": "Welcome to AltStore",
-      "identifier": "welcome-to-altstore",
-      "caption": "Please read the FAQ for help with installing apps.",
-      "tintColor": "018084",
-      "url": "https://altstore.io/faq/",
-      "date": "2019-09-28",
-      "notify": false
-    },
-    {
-      "title": "Sideloading is Here!",
-      "identifier": "sideloading-is-here",
-      "caption": "Update to AltStore 1.3 to install any app directly from Files.",
-      "tintColor": "018084",
-      "imageURL": "https://user-images.githubusercontent.com/705880/79022069-02932380-7b32-11ea-8bad-49907cb97ece.png",
-      "date": "2020-04-10T13:00:00-07:00",
-      "notify": true
-    },
-    {
-      "title": "iOS 13.4 Fixes App Crashes",
-      "identifier": "ios-13-4-now-available",
-      "caption": "Update to iOS 13.4 to fix some sideloaded apps crashing on launch.",
-      "tintColor": "34C759",
-      "date": "2020-04-10T13:30:00-07:00",
-      "notify": false
-    },
-    {
-      "title": "Clip Now Available!",
-      "identifier": "clip-now-available",
-      "caption": "Finally, a clipboard manager that can run in the background — no jailbreak required.",
-      "tintColor": "EC008C",
-      "imageURL": "https://user-images.githubusercontent.com/705880/65606598-04afdf00-df60-11e9-8f93-af6345d39557.png",
-      "date": "2020-06-17",
-      "notify": true
-    },
-    {
-      "title": "Delta, Meet Nintendo DS",
-      "identifier": "delta-meet-ds",
-      "caption": "Update to Delta 1.3 to relive all your favorite Nintendo DS games.",
-      "tintColor": "8A28F7",
-      "imageURL": "https://user-images.githubusercontent.com/705880/115617602-6ce2b600-a2a6-11eb-984e-2197a30c71e2.png",
-      "date": "2021-04-21",
-      "notify": true
-    },
-    {
-      "title": "#StandWithUkraine",
-      "identifier": "support-ukraine",
-      "caption": "Find out how you can help support those impacted by the Russian invasion.",
-      "tintColor": "003e80",
-      "imageURL": "https://user-images.githubusercontent.com/705880/156053447-a158cac7-df5f-4497-8025-15c3c2e10b48.png",
-      "url": "https://linktr.ee/razomforukraine",
-      "date": "2022-03-01",
-      "notify": false
-    },
-    {
-      "title": "The Biggest AltServer Update Yet!",
-      "identifier": "altserver-1-5",
-      "caption": "Update to AltServer 1.5 to use AltJIT and other exciting new features.",
-      "tintColor": "018084",
-      "imageURL": "https://user-images.githubusercontent.com/705880/166509576-744be578-6868-4b7d-b4fd-b9418c084327.png",
-      "url": "https://faq.altstore.io/release-notes/altserver",
-      "date": "2022-05-03",
-      "notify": true
-    },
-    {
-      "title": "More Apps in AltStore!",
-      "identifier": "trusted-sources",
-      "caption": "Update to AltStore 1.5 to easily download some of our favorite apps.",
-      "tintColor": "00CAB3",
-      "imageURL": "https://user-images.githubusercontent.com/705880/167026375-ddcb004f-7160-405c-b3e3-87a6795d2f43.png",
-      "url": "https://faq.altstore.io/release-notes/altstore",
-      "date": "2022-05-05",
-      "notify": true
+      "appID": "",
+      "caption": "Now you can install the best tweaked apps!",
+      "date": "2022-07-20",
+      "identifier": "new-source",
+      "imageURL": "https://cybertips.io/wp-content/uploads/2022/02/altstore-icon.jpeg",
+      "notify": false,
+      "tintColor": "FF2323",
+      "title": "New Source if Here!",
+      "url": "https://raw.githubusercontent.com/ItsDiino/itsdiino.github.io/main/files/dino_alt2.json"
     }
   ],
+  "sourceURL": "https://raw.githubusercontent.com/ItsDiino/itsdiino.github.io/main/files/dino_alt2.json",
   "userInfo": {}
 }

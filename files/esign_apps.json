@@ -1,0 +1,36 @@
+{
+    "name": "Dino's ESign Source",
+    "identifier": "com.dinosource.esignapps",
+    "sourceURL": "https://raw.githubusercontent.com/ItsDiino/itsdiino.github.io/main/files/esign_apps.json",
+    "apps": [
+        {
+            "name": "Spotify (Tweaked)",
+            "bundleIdentifier": "com.spotify.client",
+            "developerName": "Spotify",
+            "version": "8.5",
+            "versionDate": "2023-01-16T19:40:00+08:00",
+            "versionDescription": "First release!",
+            "downloadURL": "https://github.com/ItsDiino/itsdiino.github.io/releases/download/release/Sposify-8.5.52_Spotilife-1.8.ipa",
+            "localizedDescription": "Tweaked Spotify that actually works!",
+            "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 27206362,
+            "type": 1
+        },
+        {
+            "name": "Kodi v19",
+            "bundleIdentifier": "com.kodi.ios",
+            "developerName": "Kodi",
+            "version": "19",
+            "versionDate": "2023-01-16T19:40:00+08:00",
+            "versionDescription": "First release!",
+            "downloadURL": "https://github.com/ItsDiino/itsdiino.github.io/releases/download/release/Kodi.v19.ipa",
+            "localizedDescription": "Kodi v19 to watch movies, shows, anime and other stuff!",
+            "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kodi-logo-Thumbnail-light-transparent.png/600px-Kodi-logo-Thumbnail-light-transparent.png",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 27206362,
+            "type": 1
+        },
+}

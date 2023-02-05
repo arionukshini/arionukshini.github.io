@@ -1,3 +1,14 @@
+:root {
+  --primary-color: #edf2fc;
+  --secondary-color: #212121;
+  --tablebg-color: #b7bfd2;
+}
+.dark-theme {
+  --primary-color: #212121;
+  --secondary-color: #edf2fc; 
+  --tablebg-color: #504e4e;
+}
+
 body {
   font: Arial, sans-serif;
 }
@@ -23,7 +34,7 @@ body {
   text-align: center;
   font-size: 70px;
   text-decoration: underline;
-  color: black;
+  color: var(--secondary-color);
 }
 
 img {

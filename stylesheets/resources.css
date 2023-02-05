@@ -1,0 +1,42 @@
+:root {
+  --primary-color: #edf2fc;
+  --secondary-color: #212121;
+  --tablebg-color: #b7bfd2;
+}
+.dark-theme {
+  --primary-color: #212121;
+  --secondary-color: #edf2fc; 
+  --tablebg-color: #504e4e;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 15%;
+  margin-left: 20px;
+}
+
+td, th {
+  border: 1.5px solid var(--secondary-color);
+  text-align: left;
+  padding: 8px;
+}
+
+.toc-link {
+  font-size: 17px;
+  color: var(--secondary-color);
+  text-decoration: none;
+}
+
+.toc-tbr {
+  background-color: var(--primary-color);
+  font-size: 17px;
+}
+
+.toc-tbr:hover {
+  border-radius: 10px;
+  background-color: var(--tablebg-color);
+  font-weight: bolder;
+  transition: 0.3s;
+  cursor: pointer;
+}

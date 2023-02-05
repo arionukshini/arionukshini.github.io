@@ -95,3 +95,19 @@ div {
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
 }
+
+#rep {
+  width: 50px;
+  cursor: pointer;
+  margin-left: 30px;
+}
+
+#repa {
+  text-decoration: none;
+  color: var(--secondary-color);
+  position: absolute;
+  top: 78%;
+  left: 15%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}

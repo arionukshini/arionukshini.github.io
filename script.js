@@ -12,7 +12,7 @@ const rainbowColors = [
     '#ff2e63', // Pink
     '#f51616'  // Red
 ];
-var currentColorIndex = 0
+var currentColorIndex = 4
 
 function getRandomColor() {
     if (currentColorIndex >= 8) {

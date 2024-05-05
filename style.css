@@ -127,6 +127,10 @@ hr {
     margin: 0 10px;
     display: flex;
 
+    a {
+        color: var(--primary);
+    }
+
     i {
         cursor: pointer;
         margin-left: 15px;

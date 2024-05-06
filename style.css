@@ -13,6 +13,7 @@
     --primary-light: #b0b0b08f;
     --secondary: #000;
     --bg: #212120;
+    --bg-sec: #2c2b2b;
     --acc: #2f92fa;
 }
 
@@ -166,13 +167,9 @@ body {
     .project {
         width: 29%;
         padding: 10px 20px;
-        background-color: var(--primary);
+        background-color: var(--bg-sec);
         border: none;
         border-radius: 5px;
-
-        p {
-            color: var(--secondary);
-        }
 
         p:first-of-type {
             font-weight: 500;
@@ -187,18 +184,61 @@ body {
         .project-tag {
             margin: 12px 0 5px;
             font-size: 12px;
-            padding: 0 5px;
+            padding: 1px 3px;
             width: 33%;
             text-align: center;
-            border: 1px solid var(--secondary);
             border-radius: 10px;
-            color: var(--secondary);
+        }
+
+        a {
+            color: var(--primary);
+        }
+
+        i {
+            cursor: pointer;
+            margin-left: 15px;
+            transition: color 0.3s linear;
+        }
+
+        i:hover {
+            color: var(--acc);
+            transition: 0.3s linear;
         }
     }
 
     .project:hover {
-        background-color: var(--primary-light);
-        transition: 0.4s ease;
+        background-color: #7474747e;
+        transition: 0.3s ease;
         cursor: pointer;
+    }
+
+    .tag-r {
+        border: 2px solid rgb(190, 75, 75);
+    }
+
+    .tag-y {
+        border: 2px solid rgb(233, 231, 145);
+    }
+
+    .tag-g {
+        border: 2px solid rgb(77, 139, 77);
+    }
+
+    .project-footer {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+
+.skill-title {
+    font-size: 40px;
+    margin: 25px 5px 10px;
+    padding: 10px;
+
+    span {
+        font-size: 42px;
+        color: var(--acc);
+        transition: color 0.3s ease;
     }
 }

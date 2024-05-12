@@ -242,3 +242,19 @@ body {
         transition: color 0.3s ease;
     }
 }
+
+.skills-section {
+    padding: 0 10px 5px;
+    display: flex;
+
+    div {
+        width: 5%;
+        margin: 0 5px;
+        padding: 2px 12px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        border: 1px solid var(--primary-light);
+        border-radius: 10px;
+    }
+}

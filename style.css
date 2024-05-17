@@ -246,15 +246,19 @@ body {
 .skills-section {
     padding: 0 10px 5px;
     display: flex;
+    flex-wrap: wrap; /* Added to allow wrapping */
+    gap: 10px; /* Added to control the spacing between items */
 
     div {
-        width: 5%;
+        flex: 1 1 auto; /* Added to make items flexibly resizable */
         margin: 0 5px;
         padding: 2px 12px;
         display: flex;
         align-items: center;
-        justify-content: space-between;
+        justify-content: space-evenly; /* Centered content */
         border: 1px solid var(--primary-light);
         border-radius: 10px;
+        min-width: 120px; /* Added to set a minimum width for each skill item */
+        box-sizing: border-box; /* Added to include padding and border in the element's total width and height */
     }
 }

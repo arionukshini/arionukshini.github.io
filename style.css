@@ -17,6 +17,86 @@
     --acc: #2f92fa;
 }
 
+@media only screen and (max-width: 768px) {
+  /* Adjust header */
+  .header {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  /* Intro section */
+  .intro {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .intro-name p, .intro-name span {
+    font-size: 60px;
+  }
+
+  .intro-info {
+    width: 100%;
+    padding: 0;
+  }
+
+  .intro-info p {
+    font-size: 14px;
+    padding: 10px;
+  }
+
+  /* Mini intro section */
+  .mini-intro {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .mini-intro-info {
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+
+  .mini-intro-socials {
+    margin-top: 10px;
+    justify-content: center;
+  }
+
+  /* Project section */
+  .projects-display .first-half, 
+  .projects-display .second-half {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .project {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  /* Skills section */
+  .skills-section div {
+    width: 45%;
+    margin-bottom: 10px;
+  }
+
+  /* Contact me section */
+  .contactme {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .contacts a, .contacts p {
+    font-size: 20px;
+  }
+
+  /* Footer */
+  .footer {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+
 body {
     background-color: var(--bg);
     color: var(--primary);

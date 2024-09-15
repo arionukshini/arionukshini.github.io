@@ -321,3 +321,49 @@ body {
         font-size: 12px;
     }
 }
+
+/* Base Styles */
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.header, .footer {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.intro, .mini-intro, .projects, .skills, .contactme {
+  padding: 20px;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+.projects-display {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* Mobile Styles */
+@media (max-width: 600px) {
+  .intro-name, .intro-info {
+    text-align: center;
+  }
+
+  .projects-display {
+    flex-direction: column;
+  }
+
+  .projects-display .project {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .skills-section {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

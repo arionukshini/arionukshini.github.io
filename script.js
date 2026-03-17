@@ -30,3 +30,7 @@ function handleMouseOver() {
 
 initial1.addEventListener('mouseover', handleMouseOver);
 initial2.addEventListener('mouseover', handleMouseOver);
+
+function cvAlert() {
+    window.alert("Soon!")
+}

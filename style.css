@@ -111,10 +111,9 @@ body {
 
 .mini-intro-info {
     margin: 0 10px;
-    display: flex;
-    flex-direction: row;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
     align-items: center;
-    flex-wrap: wrap;
     gap: 6px 10px;
 
     i {
@@ -396,6 +395,14 @@ body {
     .mini-intro {
         align-items: flex-start;
         flex-direction: column;
+    }
+
+    .mini-intro-info {
+        grid-template-columns: auto minmax(0, 1fr);
+
+        p {
+            overflow-wrap: anywhere;
+        }
     }
 
     .projects-display {

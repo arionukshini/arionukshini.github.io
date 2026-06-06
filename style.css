@@ -6,6 +6,7 @@
     padding: 0;
     font-family: "Poppins", sans-serif;
     font-size: 16px;
+    box-sizing: border-box;
 }
 
 :root {
@@ -28,7 +29,9 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 6px;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 8px 12px;
     background-color: var(--bg);
     border-bottom: 1px solid var(--primary-light);
 
@@ -50,10 +53,12 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 30px;
 }
 
 .intro-name {
     font-weight: 700;
+    flex: 1 1 auto;
 
     p,
     span {
@@ -72,7 +77,10 @@ body {
 }
 
 .intro-info {
-    width: 30%;
+    width: auto;
+    max-width: 40%;
+    min-width: 280px;
+    flex: 0 1 520px;
     display: flex;
     flex-direction: row;
 
@@ -97,12 +105,17 @@ body {
     display: flex;
     align-items: start;
     justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 16px;
 }
 
 .mini-intro-info {
     margin: 0 10px;
     display: flex;
     flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 6px 10px;
 
     i {
         color: var(--acc);
@@ -110,9 +123,7 @@ body {
 
     p {
         font-size: 13px;
-        margin-left: 10px;
         margin-right: 12px;
-        margin-top: -1px;
         /* text-decoration: underline; */
         /* to check if the text is inline with icon  */
     }
@@ -121,6 +132,7 @@ body {
 .mini-intro-socials {
     margin: 0 10px;
     display: flex;
+    gap: 10px;
 
     a {
         color: var(--primary);
@@ -161,14 +173,20 @@ body {
         display: flex;
         flex-direction: row;
         justify-content: space-between;
+        gap: 16px;
     }
 
     .project {
-        width: 29%;
+        width: auto;
+        flex: 1 1 0;
+        min-width: 0;
         padding: 10px 20px;
         background-color: var(--bg-sec);
         border: none;
         border-radius: 5px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
 
         p:first-of-type {
             font-weight: 500;
@@ -184,9 +202,11 @@ body {
             margin: 12px 0 5px;
             font-size: 12px;
             padding: 1px 3px;
-            width: 33%;
+            width: auto;
+            min-width: fit-content;
             text-align: center;
             border-radius: 10px;
+            white-space: nowrap;
         }
 
         a {
@@ -251,7 +271,7 @@ body {
     /* Added to control the spacing between items */
 
     div {
-        flex: 1 1 auto;
+        flex: 1 1 140px;
         /* Added to make items flexibly resizable */
         margin: 0 5px;
         padding: 2px 12px;
@@ -275,6 +295,8 @@ body {
     flex-direction: row;
     align-items: baseline;
     justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
 }
 
 .contact-title {
@@ -292,6 +314,8 @@ body {
     padding: 0 10px 10px;
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
+    align-items: baseline;
 
     a, p {
         font-size: 25px;
@@ -300,6 +324,7 @@ body {
     a {
         color: var(--primary);
         text-decoration-color: var(--acc);
+        overflow-wrap: anywhere;
     }
 
     p {
@@ -318,5 +343,117 @@ body {
 
     p {
         font-size: 12px;
+    }
+}
+
+@media (max-width: 900px) {
+    .intro {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 16px;
+    }
+
+    .intro-info {
+        flex: 0 1 auto;
+        max-width: 100%;
+        min-width: 0;
+        width: 100%;
+    }
+
+    .projects-display {
+        .first-half,
+        .second-half {
+            flex-wrap: wrap;
+        }
+
+        .project {
+            flex: 1 1 calc(50% - 16px);
+        }
+    }
+}
+
+@media (max-width: 680px) {
+    .intro-name {
+        p,
+        span {
+            font-size: 70px;
+        }
+
+        p {
+            letter-spacing: 3px;
+        }
+    }
+
+    .mini-intro {
+        align-items: flex-start;
+        flex-direction: column;
+    }
+
+    .projects-display {
+        .project {
+            flex-basis: 100%;
+        }
+    }
+
+    .contactme {
+        align-items: flex-start;
+        flex-direction: column;
+    }
+
+    .contacts {
+        padding: 0;
+
+        a,
+        p {
+            font-size: 20px;
+        }
+    }
+}
+
+@media (max-width: 480px) {
+    .intro-name {
+        p,
+        span {
+            font-size: 52px;
+        }
+
+        p {
+            letter-spacing: 2px;
+            line-height: 120%;
+        }
+    }
+
+    .intro-info {
+        p {
+            padding: 14px;
+        }
+    }
+
+    .project-title,
+    .skill-title,
+    .contact-title {
+        font-size: 34px;
+
+        span {
+            font-size: 36px;
+        }
+    }
+
+    .projects-display {
+        margin: 5px 0;
+        padding: 10px;
+    }
+
+    .skills-section {
+        div {
+            flex-basis: 120px;
+        }
+    }
+
+    .contacts {
+        a,
+        p {
+            font-size: 16px;
+        }
     }
 }

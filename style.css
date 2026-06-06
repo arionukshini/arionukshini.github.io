@@ -201,12 +201,15 @@ body {
         .project-tag {
             margin: 12px 0 5px;
             font-size: 12px;
-            padding: 1px 3px;
+            font-weight: 600;
+            line-height: 1;
+            padding: 7px 10px;
             width: auto;
             min-width: fit-content;
             text-align: center;
-            border-radius: 10px;
+            border-radius: 999px;
             white-space: nowrap;
+            letter-spacing: 0.2px;
         }
 
         a {
@@ -232,15 +235,21 @@ body {
     }
 
     .tag-r {
-        border: 2px solid rgb(190, 75, 75);
+        color: #ffb8b8;
+        background-color: rgba(190, 75, 75, 0.16);
+        border: 1px solid rgba(190, 75, 75, 0.75);
     }
 
     .tag-y {
-        border: 2px solid rgb(233, 231, 145);
+        color: #f4efaa;
+        background-color: rgba(233, 231, 145, 0.14);
+        border: 1px solid rgba(233, 231, 145, 0.75);
     }
 
     .tag-g {
-        border: 2px solid rgb(77, 139, 77);
+        color: #baf0ba;
+        background-color: rgba(77, 139, 77, 0.18);
+        border: 1px solid rgba(77, 139, 77, 0.75);
     }
 
     .project-footer {

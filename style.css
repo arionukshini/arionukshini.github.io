@@ -9,6 +9,10 @@
     box-sizing: border-box;
 }
 
+html {
+    overflow-x: hidden;
+}
+
 :root {
     --primary: #d4d4d4;
     --primary-light: #b0b0b08f;
@@ -296,6 +300,96 @@ body {
     }
 }
 
+.certificate-title {
+    font-size: 40px;
+    margin: 25px 5px 10px;
+    padding: 10px;
+
+    span {
+        font-size: 42px;
+        color: var(--acc);
+        transition: color 0.3s ease;
+    }
+}
+
+.certificates-section {
+    margin: 10px 5px;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 16px;
+}
+
+.certificate {
+    min-width: 0;
+    overflow: hidden;
+    background-color: var(--bg-sec);
+    border: 1px solid transparent;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, border-color 0.3s ease, transform 0.3s ease;
+}
+
+.certificate-preview {
+    display: block;
+
+    img {
+        display: block;
+        width: 100%;
+        aspect-ratio: 16 / 11;
+        object-fit: cover;
+        object-position: top center;
+        background-color: var(--primary);
+        border-bottom: 1px solid var(--primary-light);
+    }
+}
+
+.certificate:hover {
+    background-color: #7474747e;
+    border-color: var(--primary-light);
+    transform: translateY(-2px);
+}
+
+.certificate-info {
+    padding: 10px 12px 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+
+    p {
+        flex: 1 1 auto;
+        font-size: 15px;
+        font-weight: 600;
+        overflow-wrap: anywhere;
+    }
+}
+
+.certificate-actions {
+    flex: 0 1 auto;
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    gap: 10px;
+
+    a {
+        display: inline-flex;
+        align-items: center;
+        color: var(--primary);
+        text-decoration: none;
+        line-height: 1;
+        white-space: nowrap;
+        transition: color 0.3s linear;
+    }
+
+    a:hover {
+        color: var(--acc);
+    }
+
+    i {
+        font-size: 16px;
+    }
+}
+
 .contactme {
     margin: 25px 5px 10px;
     padding: 10px;
@@ -447,6 +541,7 @@ body {
 
     .project-title,
     .skill-title,
+    .certificate-title,
     .contact-title {
         font-size: 34px;
 
@@ -464,6 +559,10 @@ body {
         div {
             flex-basis: 120px;
         }
+    }
+
+    .certificates-section {
+        grid-template-columns: 1fr;
     }
 
     .contacts {

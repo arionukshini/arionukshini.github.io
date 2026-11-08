@@ -172,7 +172,8 @@ body {
 
     .first-half,
     .second-half,
-    .third-half {
+    .third-half,
+    .fourth-half {
         margin-bottom: 2%;
         display: flex;
         flex-direction: row;
@@ -466,7 +467,8 @@ body {
     .projects-display {
         .first-half,
         .second-half,
-        .third-half {
+        .third-half,
+        .fourth-half {
             flex-wrap: wrap;
         }
 
